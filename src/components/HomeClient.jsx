@@ -14,7 +14,7 @@ export default function HomeClient({ levels }) {
     <div className={styles.wrapper}>
 
       <header className={styles.header}>
-        <h1 className={styles.title}>토익 보카</h1>
+        <h1 className={styles.title}>JLPT 보카</h1>
         <button
           className={styles.settingsBtn}
           onClick={() => setSettingsOpen(true)}

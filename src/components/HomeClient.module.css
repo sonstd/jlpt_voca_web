@@ -56,8 +56,6 @@
 }
 
 .subtitle {
-  display: flex;
-  justify-content: center;
   color: var(--color-text-secondary);
   margin: 0 0 24px;
 }
