@@ -2,8 +2,8 @@ import './globals.css';
 import SettingsProvider from '@/components/SettingsProvider';
 
 export const metadata = {
-  title: '토익 보카',
-  description: '레벨별, 날짜별 토익 어휘 학습',
+  title: 'JLPT 보카',
+  description: '레벨별, 날짜별 JLPT 어휘 학습',
 };
 
 export default function RootLayout({ children }) {
