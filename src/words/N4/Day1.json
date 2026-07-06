@@ -1,0 +1,237 @@
+[
+  {
+    "tango": "脱ぐ",
+    "yomikata": "ぬぐ",
+    "imi": "벗다"
+  },
+  {
+    "tango": "やる",
+    "yomikata": "",
+    "imi": "하다, 주다"
+  },
+  {
+    "tango": "橋",
+    "yomikata": "はし",
+    "imi": "다리, 교각"
+  },
+  {
+    "tango": "りんご",
+    "yomikata": "",
+    "imi": "사과"
+  },
+  {
+    "tango": "贈り物",
+    "yomikata": "おくりもの",
+    "imi": "선물"
+  },
+  {
+    "tango": "凄い",
+    "yomikata": "すごい",
+    "imi": "대단하다, 굉장하다"
+  },
+  {
+    "tango": "試合",
+    "yomikata": "しあい",
+    "imi": "시합"
+  },
+  {
+    "tango": "折れる",
+    "yomikata": "おれる",
+    "imi": "접히다, 꺽이다"
+  },
+  {
+    "tango": "利用",
+    "yomikata": "りよう",
+    "imi": "이용"
+  },
+  {
+    "tango": "ちっとも",
+    "yomikata": "",
+    "imi": "조금도, 전혀"
+  },
+  {
+    "tango": "機械",
+    "yomikata": "きかい",
+    "imi": "기계"
+  },
+  {
+    "tango": "トラック",
+    "yomikata": "",
+    "imi": "트럭"
+  },
+  {
+    "tango": "道具",
+    "yomikata": "どうぐ",
+    "imi": "도구"
+  },
+  {
+    "tango": "神社",
+    "yomikata": "じんじゃ",
+    "imi": "신사"
+  },
+  {
+    "tango": "今夜",
+    "yomikata": "こんや",
+    "imi": "오늘 밤"
+  },
+  {
+    "tango": "触る",
+    "yomikata": "さわる",
+    "imi": "손대다, 만지다"
+  },
+  {
+    "tango": "しかも",
+    "yomikata": "",
+    "imi": "게다가 <접속사>"
+  },
+  {
+    "tango": "お土産",
+    "yomikata": "おみやげ",
+    "imi": "선물(주로 여행선물)"
+  },
+  {
+    "tango": "読み方",
+    "yomikata": "よみかた",
+    "imi": "읽는 법"
+  },
+  {
+    "tango": "取る",
+    "yomikata": "とる",
+    "imi": "(손에)들다, 집다, 잡다"
+  },
+  {
+    "tango": "通う",
+    "yomikata": "かよう",
+    "imi": "다니다(통학, 통근)"
+  },
+  {
+    "tango": "太い",
+    "yomikata": "ふとい",
+    "imi": "굵다"
+  },
+  {
+    "tango": "止まる",
+    "yomikata": "とまる",
+    "imi": "멈추다, 서다"
+  },
+  {
+    "tango": "暑さ",
+    "yomikata": "あつさ",
+    "imi": "더위"
+  },
+  {
+    "tango": "反対",
+    "yomikata": "はんたい",
+    "imi": "반대"
+  },
+  {
+    "tango": "乗り物",
+    "yomikata": "のりもの",
+    "imi": "교통수단, 탈 것"
+  },
+  {
+    "tango": "喉",
+    "yomikata": "のど",
+    "imi": "목"
+  },
+  {
+    "tango": "似合う",
+    "yomikata": "にあう",
+    "imi": "어울리다"
+  },
+  {
+    "tango": "砂糖",
+    "yomikata": "さとう",
+    "imi": "설탕"
+  },
+  {
+    "tango": "功",
+    "yomikata": "こう",
+    "imi": "공, 공로"
+  },
+  {
+    "tango": "負ける",
+    "yomikata": "まける",
+    "imi": "지다, 패배하다"
+  },
+  {
+    "tango": "スーツケース",
+    "yomikata": "",
+    "imi": "슈트케이스, 캐리어 가방"
+  },
+  {
+    "tango": "動物園",
+    "yomikata": "どうぶつえん",
+    "imi": "동물원"
+  },
+  {
+    "tango": "警察",
+    "yomikata": "けいさつ",
+    "imi": "경찰"
+  },
+  {
+    "tango": "事務所",
+    "yomikata": "じむしょ",
+    "imi": "사무소"
+  },
+  {
+    "tango": "多分",
+    "yomikata": "たぶん",
+    "imi": "아마"
+  },
+  {
+    "tango": "コート",
+    "yomikata": "",
+    "imi": "코트"
+  },
+  {
+    "tango": "広さ",
+    "yomikata": "ひろさ",
+    "imi": "넓이"
+  },
+  {
+    "tango": "盛んな",
+    "yomikata": "さかんな",
+    "imi": "왕성한, 활발한"
+  },
+  {
+    "tango": "ガス代",
+    "yomikata": "がすだい",
+    "imi": "가스 요금"
+  },
+  {
+    "tango": "揺れる",
+    "yomikata": "ゆれる",
+    "imi": "흔들리다"
+  },
+  {
+    "tango": "細い",
+    "yomikata": "ほそい",
+    "imi": "가늘다, (폭이)좁다"
+  },
+  {
+    "tango": "欠席",
+    "yomikata": "けっせき",
+    "imi": "결석"
+  },
+  {
+    "tango": "もし",
+    "yomikata": "",
+    "imi": "만약"
+  },
+  {
+    "tango": "など",
+    "yomikata": "",
+    "imi": "~등 <조사>"
+  },
+  {
+    "tango": "今回",
+    "yomikata": "こんかい",
+    "imi": "이번"
+  },
+  {
+    "tango": "先輩",
+    "yomikata": "せんぱい",
+    "imi": "선배"
+  }
+]

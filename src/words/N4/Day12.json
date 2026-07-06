@@ -1,0 +1,227 @@
+[
+  {
+    "tango": "ドレス",
+    "yomikata": "",
+    "imi": "드레스"
+  },
+  {
+    "tango": "安心",
+    "yomikata": "あんしん",
+    "imi": "안심"
+  },
+  {
+    "tango": "沸かす",
+    "yomikata": "わかす",
+    "imi": "끓이다"
+  },
+  {
+    "tango": "スイッチ",
+    "yomikata": "",
+    "imi": "스위치"
+  },
+  {
+    "tango": "席",
+    "yomikata": "せき",
+    "imi": "자리, 좌석"
+  },
+  {
+    "tango": "億",
+    "yomikata": "おく",
+    "imi": "억(숫자)"
+  },
+  {
+    "tango": "見物",
+    "yomikata": "けんぶつ",
+    "imi": "구경"
+  },
+  {
+    "tango": "運動",
+    "yomikata": "うんどう",
+    "imi": "운동"
+  },
+  {
+    "tango": "止める",
+    "yomikata": "やめる",
+    "imi": "그만두다, (하던 일을)끊다"
+  },
+  {
+    "tango": "結構",
+    "yomikata": "けっこう",
+    "imi": "꽤, 상당히"
+  },
+  {
+    "tango": "決まる",
+    "yomikata": "きまる",
+    "imi": "정해지다, 결정되다"
+  },
+  {
+    "tango": "指輪",
+    "yomikata": "ゆびわ",
+    "imi": "반지"
+  },
+  {
+    "tango": "熱い",
+    "yomikata": "あつい",
+    "imi": "뜨겁다"
+  },
+  {
+    "tango": "払う",
+    "yomikata": "はらう",
+    "imi": "지불하다"
+  },
+  {
+    "tango": "そんなに",
+    "yomikata": "",
+    "imi": "그렇게"
+  },
+  {
+    "tango": "スピード",
+    "yomikata": "",
+    "imi": "스피드"
+  },
+  {
+    "tango": "文学",
+    "yomikata": "ぶんがく",
+    "imi": "문학"
+  },
+  {
+    "tango": "チャンス",
+    "yomikata": "",
+    "imi": "찬스, 기회"
+  },
+  {
+    "tango": "ニンジン",
+    "yomikata": "",
+    "imi": "당근"
+  },
+  {
+    "tango": "~度",
+    "yomikata": "~ど",
+    "imi": "~번 (횟수 세는 단위)"
+  },
+  {
+    "tango": "お祭り",
+    "yomikata": "おまつり",
+    "imi": "축제"
+  },
+  {
+    "tango": "遠く",
+    "yomikata": "とおく",
+    "imi": "먼 곳"
+  },
+  {
+    "tango": "すっかり",
+    "yomikata": "",
+    "imi": "완전히"
+  },
+  {
+    "tango": "いただく",
+    "yomikata": "",
+    "imi": "받다, 먹다 (겸양어)"
+  },
+  {
+    "tango": "入社",
+    "yomikata": "にゅうしゃ",
+    "imi": "입사"
+  },
+  {
+    "tango": "自分",
+    "yomikata": "じぶん",
+    "imi": "자신, 자기"
+  },
+  {
+    "tango": "駐車",
+    "yomikata": "ちゅうしゃ",
+    "imi": "주차"
+  },
+  {
+    "tango": "木綿",
+    "yomikata": "もめん",
+    "imi": "면, 목면"
+  },
+  {
+    "tango": "可笑しい",
+    "yomikata": "おかしい",
+    "imi": "이상하다, 재미있다, 우습다"
+  },
+  {
+    "tango": "熱",
+    "yomikata": "ねつ",
+    "imi": "열"
+  },
+  {
+    "tango": "考える",
+    "yomikata": "かんがえる",
+    "imi": "생각하다"
+  },
+  {
+    "tango": "建つ",
+    "yomikata": "たつ",
+    "imi": "건설되다"
+  },
+  {
+    "tango": "柔道",
+    "yomikata": "じゅうどう",
+    "imi": "유도"
+  },
+  {
+    "tango": "自転車",
+    "yomikata": "じてんしゃ",
+    "imi": "자전거"
+  },
+  {
+    "tango": "落し物, 落とし物",
+    "yomikata": "おとしもの",
+    "imi": "분실물"
+  },
+  {
+    "tango": "ルール",
+    "yomikata": "",
+    "imi": "룰, 규칙"
+  },
+  {
+    "tango": "お宅",
+    "yomikata": "おたく",
+    "imi": "댁"
+  },
+  {
+    "tango": "草",
+    "yomikata": "くさ",
+    "imi": "풀"
+  },
+  {
+    "tango": "危険な",
+    "yomikata": "きけんな",
+    "imi": "위험한"
+  },
+  {
+    "tango": "説明",
+    "yomikata": "せつめい",
+    "imi": "설명"
+  },
+  {
+    "tango": "知らせる",
+    "yomikata": "しらせる",
+    "imi": "알리다"
+  },
+  {
+    "tango": "興味",
+    "yomikata": "きょうみ",
+    "imi": "흥미"
+  },
+  {
+    "tango": "寝坊",
+    "yomikata": "ねぼう",
+    "imi": "늦잠"
+  },
+  {
+    "tango": "忘れる",
+    "yomikata": "わすれる",
+    "imi": "잊어버리다, 물건을 두고오다"
+  },
+  {
+    "tango": "運ぶ",
+    "yomikata": "はこぶ",
+    "imi": "옮기다, 운반하다"
+  }
+]

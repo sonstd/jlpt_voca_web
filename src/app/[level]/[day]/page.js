@@ -7,7 +7,7 @@ export default async function DayPage({ params }) {
   if (!isValidLevel(level)) notFound();
 
   const dayNum = parseDayParam(day);
-  const totalDays = getTotalDays(level);
+  const totalDays = await getTotalDays(level);
   if (!dayNum || dayNum < 1 || dayNum > totalDays) notFound();
 
   const words = await getWords(level, dayNum);

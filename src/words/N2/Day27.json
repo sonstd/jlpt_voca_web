@@ -1,0 +1,227 @@
+[
+  {
+    "tango": "評論",
+    "yomikata": "ひょうろん",
+    "imi": "평론"
+  },
+  {
+    "tango": "絵本",
+    "yomikata": "えほん",
+    "imi": "그림책"
+  },
+  {
+    "tango": "学年",
+    "yomikata": "がくねん",
+    "imi": "학년"
+  },
+  {
+    "tango": "悪寒",
+    "yomikata": "おかん",
+    "imi": "오한"
+  },
+  {
+    "tango": "半径",
+    "yomikata": "はんけい",
+    "imi": "반경, 반지름"
+  },
+  {
+    "tango": "悪条件",
+    "yomikata": "あくじょうけん",
+    "imi": "악조건"
+  },
+  {
+    "tango": "秤",
+    "yomikata": "はかり",
+    "imi": "저울"
+  },
+  {
+    "tango": "みっともない",
+    "yomikata": "",
+    "imi": "보기 흉하다, 꼴불견이다"
+  },
+  {
+    "tango": "含める",
+    "yomikata": "ふくめる",
+    "imi": "포함하다. 포함시키다"
+  },
+  {
+    "tango": "鉱物",
+    "yomikata": "こうぶつ",
+    "imi": "광물"
+  },
+  {
+    "tango": "体積",
+    "yomikata": "たいせき",
+    "imi": "체적, 부피"
+  },
+  {
+    "tango": "教員",
+    "yomikata": "きょういん",
+    "imi": "교원"
+  },
+  {
+    "tango": "有能な",
+    "yomikata": "ゆうのうな",
+    "imi": "유능한"
+  },
+  {
+    "tango": "触れる",
+    "yomikata": "ふれる",
+    "imi": "닿다, 접하다, 스치다"
+  },
+  {
+    "tango": "トランプ",
+    "yomikata": "",
+    "imi": "트럼프"
+  },
+  {
+    "tango": "受け入れる",
+    "yomikata": "うけいれる",
+    "imi": "받아들이다"
+  },
+  {
+    "tango": "改正",
+    "yomikata": "かいせい",
+    "imi": "개정"
+  },
+  {
+    "tango": "加工",
+    "yomikata": "かこう",
+    "imi": "가공"
+  },
+  {
+    "tango": "うとうと",
+    "yomikata": "",
+    "imi": "꾸벅꾸벅"
+  },
+  {
+    "tango": "当然",
+    "yomikata": "とうぜん",
+    "imi": "당연히"
+  },
+  {
+    "tango": "小屋",
+    "yomikata": "こや",
+    "imi": "오두막"
+  },
+  {
+    "tango": "小柄な",
+    "yomikata": "こがらな",
+    "imi": "몸집이 작은"
+  },
+  {
+    "tango": "引用",
+    "yomikata": "いんよう",
+    "imi": "인용"
+  },
+  {
+    "tango": "一瞬",
+    "yomikata": "いっしゅん",
+    "imi": "일순간"
+  },
+  {
+    "tango": "分量",
+    "yomikata": "ぶんりょう",
+    "imi": "분량"
+  },
+  {
+    "tango": "改善",
+    "yomikata": "かいぜん",
+    "imi": "개선"
+  },
+  {
+    "tango": "情勢",
+    "yomikata": "じょうせい",
+    "imi": "정세"
+  },
+  {
+    "tango": "標識",
+    "yomikata": "ひょうしき",
+    "imi": "표지, 표식"
+  },
+  {
+    "tango": "後者",
+    "yomikata": "こうしゃ",
+    "imi": "후자, 뒤의 것, 뒤를 잇는 자"
+  },
+  {
+    "tango": "黒字",
+    "yomikata": "くろじ",
+    "imi": "흑자"
+  },
+  {
+    "tango": "身につける",
+    "yomikata": "みにつける",
+    "imi": "터득하다, 익히다"
+  },
+  {
+    "tango": "催し",
+    "yomikata": "もよおし",
+    "imi": "모임, 행사, 이벤트, 기획"
+  },
+  {
+    "tango": "寄せる",
+    "yomikata": "よせる",
+    "imi": "다가오다, 부르다. 가까이 대다"
+  },
+  {
+    "tango": "図表",
+    "yomikata": "ずひょう",
+    "imi": "도표"
+  },
+  {
+    "tango": "診断",
+    "yomikata": "しんだん",
+    "imi": "진단"
+  },
+  {
+    "tango": "願望",
+    "yomikata": "がんぼう",
+    "imi": "소망"
+  },
+  {
+    "tango": "適切な",
+    "yomikata": "てきせつな",
+    "imi": "적절한"
+  },
+  {
+    "tango": "達する",
+    "yomikata": "たっする",
+    "imi": "달하다, 도달하다"
+  },
+  {
+    "tango": "~発",
+    "yomikata": "~はつ",
+    "imi": "~발(출발)"
+  },
+  {
+    "tango": "取材",
+    "yomikata": "しゅざい",
+    "imi": "취재"
+  },
+  {
+    "tango": "普及",
+    "yomikata": "ふきゅう",
+    "imi": "보급"
+  },
+  {
+    "tango": "おまけ",
+    "yomikata": "",
+    "imi": "덤, 경품"
+  },
+  {
+    "tango": "大工",
+    "yomikata": "だいく",
+    "imi": "목수, 목공"
+  },
+  {
+    "tango": "びっしょり",
+    "yomikata": "",
+    "imi": "흠뻑"
+  },
+  {
+    "tango": "逃す",
+    "yomikata": "のがす",
+    "imi": "놓치다"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "tango": "大人しい",
+    "yomikata": "おとなしい",
+    "imi": "얌전하다"
+  },
+  {
+    "tango": "女性",
+    "yomikata": "じょせい",
+    "imi": "여성"
+  },
+  {
+    "tango": "店員",
+    "yomikata": "てんいん",
+    "imi": "점원"
+  },
+  {
+    "tango": "くれる",
+    "yomikata": "",
+    "imi": "주다"
+  },
+  {
+    "tango": "すると",
+    "yomikata": "",
+    "imi": "그러자, 그랬더니 <접속사>"
+  },
+  {
+    "tango": "出入口, 出入り口",
+    "yomikata": "でいりぐち",
+    "imi": "출입구"
+  },
+  {
+    "tango": "居間",
+    "yomikata": "いま",
+    "imi": "거실"
+  },
+  {
+    "tango": "サンドイッチ",
+    "yomikata": "",
+    "imi": "샌드위치"
+  },
+  {
+    "tango": "年代",
+    "yomikata": "ねんだい",
+    "imi": "연대, 시대"
+  },
+  {
+    "tango": "別な",
+    "yomikata": "べつな",
+    "imi": "다른, 별개인"
+  },
+  {
+    "tango": "マスク",
+    "yomikata": "",
+    "imi": "마스크, 가면"
+  },
+  {
+    "tango": "倒れる",
+    "yomikata": "たおれる",
+    "imi": "쓰러지다, 넘어지다"
+  },
+  {
+    "tango": "確か",
+    "yomikata": "たしか",
+    "imi": "분명히"
+  },
+  {
+    "tango": "都合",
+    "yomikata": "つごう",
+    "imi": "사정, 형편"
+  },
+  {
+    "tango": "ご覧になる",
+    "yomikata": "ごらんになる",
+    "imi": "보시다 (존경어)"
+  },
+  {
+    "tango": "訳",
+    "yomikata": "わけ",
+    "imi": "이유, 이치, 까닭"
+  },
+  {
+    "tango": "止む",
+    "yomikata": "やむ",
+    "imi": "그치다, 멎다"
+  },
+  {
+    "tango": "ラジカセ",
+    "yomikata": "",
+    "imi": "라디오 카세트"
+  },
+  {
+    "tango": "校長",
+    "yomikata": "こうちょう",
+    "imi": "교장"
+  },
+  {
+    "tango": "舌",
+    "yomikata": "した",
+    "imi": "혀(신체)"
+  },
+  {
+    "tango": "願う",
+    "yomikata": "ねがう",
+    "imi": "바라다, 희망하다"
+  },
+  {
+    "tango": "できるだけ",
+    "yomikata": "",
+    "imi": "가능한 한"
+  },
+  {
+    "tango": "スリッパ",
+    "yomikata": "",
+    "imi": "슬리퍼"
+  },
+  {
+    "tango": "代わり",
+    "yomikata": "かわり",
+    "imi": "대신, 대리"
+  },
+  {
+    "tango": "娘",
+    "yomikata": "むすめ",
+    "imi": "딸"
+  },
+  {
+    "tango": "差す",
+    "yomikata": "さす",
+    "imi": "받치다, (우산을)쓰다"
+  },
+  {
+    "tango": "縦",
+    "yomikata": "たて",
+    "imi": "세로"
+  },
+  {
+    "tango": "上手な",
+    "yomikata": "じょうずな",
+    "imi": "능숙한, 잘하는"
+  },
+  {
+    "tango": "夕べ",
+    "yomikata": "ゆうべ",
+    "imi": "저녁"
+  },
+  {
+    "tango": "渡す",
+    "yomikata": "わたす",
+    "imi": "건네다"
+  },
+  {
+    "tango": "約束",
+    "yomikata": "やくそく",
+    "imi": "약속"
+  },
+  {
+    "tango": "タイプ",
+    "yomikata": "",
+    "imi": "타입, 종류"
+  },
+  {
+    "tango": "林",
+    "yomikata": "はやし",
+    "imi": "숲"
+  },
+  {
+    "tango": "随分",
+    "yomikata": "ずいぶん",
+    "imi": "몹시, 아주, 대단히"
+  },
+  {
+    "tango": "生活",
+    "yomikata": "せいかつ",
+    "imi": "생활"
+  },
+  {
+    "tango": "仕舞う",
+    "yomikata": "しまう",
+    "imi": "끝내다, 정리하다, 치우다"
+  },
+  {
+    "tango": "郵便局",
+    "yomikata": "ゆうびんきょく",
+    "imi": "우체국"
+  },
+  {
+    "tango": "半",
+    "yomikata": "はん",
+    "imi": "반, 절반"
+  },
+  {
+    "tango": "探す",
+    "yomikata": "さがす",
+    "imi": "찾다"
+  },
+  {
+    "tango": "国立",
+    "yomikata": "こくりつ",
+    "imi": "국립"
+  },
+  {
+    "tango": "チェック",
+    "yomikata": "",
+    "imi": "체크, 확인"
+  },
+  {
+    "tango": "返事",
+    "yomikata": "へんじ",
+    "imi": "답장, 대답"
+  },
+  {
+    "tango": "伝える",
+    "yomikata": "つたえる",
+    "imi": "전달하다"
+  },
+  {
+    "tango": "研究室",
+    "yomikata": "けんきゅうしつ",
+    "imi": "연구실"
+  },
+  {
+    "tango": "スピーカー",
+    "yomikata": "",
+    "imi": "스피커"
+  }
+]

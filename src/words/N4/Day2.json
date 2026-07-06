@@ -1,0 +1,237 @@
+[
+  {
+    "tango": "百貨店",
+    "yomikata": "ひゃっかてん",
+    "imi": "백화점"
+  },
+  {
+    "tango": "落ちる",
+    "yomikata": "おちる",
+    "imi": "떨어지다"
+  },
+  {
+    "tango": "工事",
+    "yomikata": "こうじ",
+    "imi": "공사"
+  },
+  {
+    "tango": "これから",
+    "yomikata": "",
+    "imi": "이제부터, 앞으로"
+  },
+  {
+    "tango": "金魚",
+    "yomikata": "きんぎょ",
+    "imi": "금붕어"
+  },
+  {
+    "tango": "冷房",
+    "yomikata": "れいぼう",
+    "imi": "냉방"
+  },
+  {
+    "tango": "社長",
+    "yomikata": "しゃちょう",
+    "imi": "사장"
+  },
+  {
+    "tango": "~歳",
+    "yomikata": "~さい",
+    "imi": "~살 (나이 세는 단위)"
+  },
+  {
+    "tango": "赤ちゃん",
+    "yomikata": "あかちゃん",
+    "imi": "아기"
+  },
+  {
+    "tango": "調べる",
+    "yomikata": "しらべる",
+    "imi": "조사하다, 찾다"
+  },
+  {
+    "tango": "力",
+    "yomikata": "ちから",
+    "imi": "힘"
+  },
+  {
+    "tango": "気がある",
+    "yomikata": "きがある",
+    "imi": "마음이 있다, 관심이 있다"
+  },
+  {
+    "tango": "ピアノ",
+    "yomikata": "",
+    "imi": "피아노"
+  },
+  {
+    "tango": "お手洗い",
+    "yomikata": "おてあらい",
+    "imi": "화장실"
+  },
+  {
+    "tango": "どんどん",
+    "yomikata": "",
+    "imi": "착착(순조롭게), 계속해서"
+  },
+  {
+    "tango": "原因",
+    "yomikata": "げんいん",
+    "imi": "원인"
+  },
+  {
+    "tango": "人口",
+    "yomikata": "じんこう",
+    "imi": "인구"
+  },
+  {
+    "tango": "虫",
+    "yomikata": "むし",
+    "imi": "벌레"
+  },
+  {
+    "tango": "旨い",
+    "yomikata": "うまい",
+    "imi": "맛있다"
+  },
+  {
+    "tango": "戦争",
+    "yomikata": "せんそう",
+    "imi": "전쟁"
+  },
+  {
+    "tango": "以内",
+    "yomikata": "いない",
+    "imi": "이내"
+  },
+  {
+    "tango": "入院",
+    "yomikata": "にゅういん",
+    "imi": "입원"
+  },
+  {
+    "tango": "けんか",
+    "yomikata": "",
+    "imi": "싸움"
+  },
+  {
+    "tango": "台風",
+    "yomikata": "たいふう",
+    "imi": "태풍"
+  },
+  {
+    "tango": "太る",
+    "yomikata": "ふとる",
+    "imi": "살찌다"
+  },
+  {
+    "tango": "鳴る",
+    "yomikata": "なる",
+    "imi": "(소리가)울리다"
+  },
+  {
+    "tango": "不便な",
+    "yomikata": "ふべんな",
+    "imi": "불편한"
+  },
+  {
+    "tango": "ブドウ",
+    "yomikata": "",
+    "imi": "포도"
+  },
+  {
+    "tango": "空く",
+    "yomikata": "すく",
+    "imi": "비다, 한산하다"
+  },
+  {
+    "tango": "水道",
+    "yomikata": "すいどう",
+    "imi": "수도"
+  },
+  {
+    "tango": "走る",
+    "yomikata": "はしる",
+    "imi": "달리다"
+  },
+  {
+    "tango": "正しい",
+    "yomikata": "ただしい",
+    "imi": "올바르다, 옳다"
+  },
+  {
+    "tango": "簡単な",
+    "yomikata": "かんたんな",
+    "imi": "간단한"
+  },
+  {
+    "tango": "選ぶ",
+    "yomikata": "えらぶ",
+    "imi": "고르다, 선택하다"
+  },
+  {
+    "tango": "この頃",
+    "yomikata": "このごろ",
+    "imi": "요즘, 요새"
+  },
+  {
+    "tango": "将来",
+    "yomikata": "しょうらい",
+    "imi": "장래"
+  },
+  {
+    "tango": "働く",
+    "yomikata": "はたらく",
+    "imi": "일하다"
+  },
+  {
+    "tango": "期間",
+    "yomikata": "きかん",
+    "imi": "기간"
+  },
+  {
+    "tango": "小鳥",
+    "yomikata": "ことり",
+    "imi": "작은 새, 아기 새"
+  },
+  {
+    "tango": "室内",
+    "yomikata": "しつない",
+    "imi": "실내"
+  },
+  {
+    "tango": "ほとんど",
+    "yomikata": "",
+    "imi": "거의, 대부분"
+  },
+  {
+    "tango": "都",
+    "yomikata": "と",
+    "imi": "도(행정구역)"
+  },
+  {
+    "tango": "留守",
+    "yomikata": "るす",
+    "imi": "부재중"
+  },
+  {
+    "tango": "講義",
+    "yomikata": "こうぎ",
+    "imi": "강의"
+  },
+  {
+    "tango": "ニュース",
+    "yomikata": "",
+    "imi": "뉴스"
+  },
+  {
+    "tango": "吹く",
+    "yomikata": "ふく",
+    "imi": "불다"
+  },
+  {
+    "tango": "~屋",
+    "yomikata": "~や",
+    "imi": "~가게, ~장수(파는사람)"
+  }
+]

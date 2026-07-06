@@ -1,0 +1,232 @@
+[
+  {
+    "tango": "釣る",
+    "yomikata": "つる",
+    "imi": "낚다, 잡다"
+  },
+  {
+    "tango": "決める",
+    "yomikata": "きめる",
+    "imi": "정하다, 결정하다"
+  },
+  {
+    "tango": "喜ぶ",
+    "yomikata": "よろこぶ",
+    "imi": "기뻐하다"
+  },
+  {
+    "tango": "手前",
+    "yomikata": "てまえ",
+    "imi": "바로 자기 앞"
+  },
+  {
+    "tango": "持ち帰り",
+    "yomikata": "もちかえり",
+    "imi": "포장판매, 테이크아웃"
+  },
+  {
+    "tango": "昼間",
+    "yomikata": "ひるま",
+    "imi": "낮, 주간, 대낮"
+  },
+  {
+    "tango": "着物",
+    "yomikata": "きもの",
+    "imi": "기모노"
+  },
+  {
+    "tango": "先々月",
+    "yomikata": "せんせんげつ",
+    "imi": "지지난 달"
+  },
+  {
+    "tango": "直る",
+    "yomikata": "なおる",
+    "imi": "고쳐지다, 수리되다"
+  },
+  {
+    "tango": "月",
+    "yomikata": "つき",
+    "imi": "달"
+  },
+  {
+    "tango": "通り",
+    "yomikata": "とおり",
+    "imi": "도로, 통로"
+  },
+  {
+    "tango": "サイン",
+    "yomikata": "",
+    "imi": "사인, 서명"
+  },
+  {
+    "tango": "参る",
+    "yomikata": "まいる",
+    "imi": "오다, 가다 (겸양어)"
+  },
+  {
+    "tango": "いつか",
+    "yomikata": "",
+    "imi": "언젠가"
+  },
+  {
+    "tango": "変える",
+    "yomikata": "かえる",
+    "imi": "바꾸다, 변경하다"
+  },
+  {
+    "tango": "夢",
+    "yomikata": "ゆめ",
+    "imi": "꿈"
+  },
+  {
+    "tango": "ございます",
+    "yomikata": "",
+    "imi": "있다 (정중어)"
+  },
+  {
+    "tango": "プレゼント",
+    "yomikata": "",
+    "imi": "선물"
+  },
+  {
+    "tango": "教会",
+    "yomikata": "きょうかい",
+    "imi": "교회"
+  },
+  {
+    "tango": "それから",
+    "yomikata": "",
+    "imi": "그리고나서 <접속사>"
+  },
+  {
+    "tango": "裏",
+    "yomikata": "うら",
+    "imi": "뒤쪽, 반대쪽"
+  },
+  {
+    "tango": "硬い",
+    "yomikata": "かたい",
+    "imi": "단단하다, 딱딱하다"
+  },
+  {
+    "tango": "自由",
+    "yomikata": "じゆう",
+    "imi": "자유"
+  },
+  {
+    "tango": "電報",
+    "yomikata": "でんぽう",
+    "imi": "전보"
+  },
+  {
+    "tango": "音",
+    "yomikata": "おと",
+    "imi": "소리"
+  },
+  {
+    "tango": "壊す",
+    "yomikata": "こわす",
+    "imi": "부수다, 고장내다"
+  },
+  {
+    "tango": "特別な",
+    "yomikata": "とくべつな",
+    "imi": "특별한"
+  },
+  {
+    "tango": "子猫",
+    "yomikata": "こねこ",
+    "imi": "새끼 고양이"
+  },
+  {
+    "tango": "ワイシャツ",
+    "yomikata": "",
+    "imi": "와이셔츠"
+  },
+  {
+    "tango": "卒業",
+    "yomikata": "そつぎょう",
+    "imi": "졸업"
+  },
+  {
+    "tango": "~枚",
+    "yomikata": "~まい",
+    "imi": "~장 (종이 세는 단위)"
+  },
+  {
+    "tango": "市",
+    "yomikata": "し",
+    "imi": "시(행정구역)"
+  },
+  {
+    "tango": "彼女",
+    "yomikata": "かのじょ",
+    "imi": "그녀, 여자친구"
+  },
+  {
+    "tango": "葉",
+    "yomikata": "は",
+    "imi": "잎"
+  },
+  {
+    "tango": "受ける",
+    "yomikata": "うける",
+    "imi": "받다"
+  },
+  {
+    "tango": "市役所",
+    "yomikata": "しやくしょ",
+    "imi": "시청"
+  },
+  {
+    "tango": "必ず",
+    "yomikata": "かならず",
+    "imi": "반드시"
+  },
+  {
+    "tango": "失礼",
+    "yomikata": "しつれい",
+    "imi": "실례"
+  },
+  {
+    "tango": "怖い",
+    "yomikata": "こわい",
+    "imi": "무섭다"
+  },
+  {
+    "tango": "豚肉",
+    "yomikata": "ぶたにく",
+    "imi": "돼지고기"
+  },
+  {
+    "tango": "サラダ",
+    "yomikata": "",
+    "imi": "샐러드"
+  },
+  {
+    "tango": "下がる",
+    "yomikata": "さがる",
+    "imi": "내려가다"
+  },
+  {
+    "tango": "例えば",
+    "yomikata": "たとえば",
+    "imi": "예를 들면"
+  },
+  {
+    "tango": "公務員",
+    "yomikata": "こうむいん",
+    "imi": "공무원"
+  },
+  {
+    "tango": "小説",
+    "yomikata": "しょうせつ",
+    "imi": "소설"
+  },
+  {
+    "tango": "招待",
+    "yomikata": "しょうたい",
+    "imi": "초대"
+  }
+]

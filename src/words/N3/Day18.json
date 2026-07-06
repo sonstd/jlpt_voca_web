@@ -1,0 +1,227 @@
+[
+  {
+    "tango": "味わう",
+    "yomikata": "あじわう",
+    "imi": "맛보다"
+  },
+  {
+    "tango": "表情",
+    "yomikata": "ひょうじょう",
+    "imi": "표정"
+  },
+  {
+    "tango": "調査",
+    "yomikata": "ちょうさ",
+    "imi": "조사"
+  },
+  {
+    "tango": "人種",
+    "yomikata": "じんしゅ",
+    "imi": "인종"
+  },
+  {
+    "tango": "課題",
+    "yomikata": "かだい",
+    "imi": "과제"
+  },
+  {
+    "tango": "しゃがむ",
+    "yomikata": "",
+    "imi": "웅크리다, 쪼그려앉다"
+  },
+  {
+    "tango": "グループ",
+    "yomikata": "",
+    "imi": "그룹"
+  },
+  {
+    "tango": "笑顔",
+    "yomikata": "えがお",
+    "imi": "웃는 얼굴, 미소"
+  },
+  {
+    "tango": "煮る",
+    "yomikata": "にる",
+    "imi": "삶다"
+  },
+  {
+    "tango": "近道",
+    "yomikata": "ちかみち",
+    "imi": "지름길"
+  },
+  {
+    "tango": "中間",
+    "yomikata": "ちゅうかん",
+    "imi": "중간"
+  },
+  {
+    "tango": "問い合わせ",
+    "yomikata": "といあわせ",
+    "imi": "문의"
+  },
+  {
+    "tango": "日程",
+    "yomikata": "にってい",
+    "imi": "일정"
+  },
+  {
+    "tango": "頼もしい",
+    "yomikata": "たのもしい",
+    "imi": "믿음직하다, 듬직하다"
+  },
+  {
+    "tango": "機会",
+    "yomikata": "きかい",
+    "imi": "기회"
+  },
+  {
+    "tango": "くじ",
+    "yomikata": "",
+    "imi": "제비뽑기, 추첨"
+  },
+  {
+    "tango": "路面",
+    "yomikata": "ろめん",
+    "imi": "노면"
+  },
+  {
+    "tango": "複数",
+    "yomikata": "ふくすう",
+    "imi": "복수(숫자)"
+  },
+  {
+    "tango": "自動販売機",
+    "yomikata": "じどうはんばいき",
+    "imi": "자동판매기"
+  },
+  {
+    "tango": "平均",
+    "yomikata": "へいきん",
+    "imi": "평균"
+  },
+  {
+    "tango": "ぎっしり",
+    "yomikata": "",
+    "imi": "가득, 빽빽이"
+  },
+  {
+    "tango": "微笑む",
+    "yomikata": "ほほえむ",
+    "imi": "미소짓다"
+  },
+  {
+    "tango": "身長",
+    "yomikata": "しんちょう",
+    "imi": "신장, 키"
+  },
+  {
+    "tango": "乾かす",
+    "yomikata": "かわかす",
+    "imi": "말리다, 건조시키다"
+  },
+  {
+    "tango": "アルバム",
+    "yomikata": "",
+    "imi": "앨범"
+  },
+  {
+    "tango": "夕焼け",
+    "yomikata": "ゆうやけ",
+    "imi": "저녁노을"
+  },
+  {
+    "tango": "溶かす",
+    "yomikata": "とかす",
+    "imi": "녹이다, (물에)타다"
+  },
+  {
+    "tango": "上旬",
+    "yomikata": "じょうじゅん",
+    "imi": "초순, 상순"
+  },
+  {
+    "tango": "坊ちゃん",
+    "yomikata": "ぼっちゃん",
+    "imi": "도련님"
+  },
+  {
+    "tango": "負け",
+    "yomikata": "まけ",
+    "imi": "패배"
+  },
+  {
+    "tango": "締め切り",
+    "yomikata": "しめきり",
+    "imi": "마감"
+  },
+  {
+    "tango": "正面",
+    "yomikata": "しょうめん",
+    "imi": "정면"
+  },
+  {
+    "tango": "燃やす",
+    "yomikata": "もやす",
+    "imi": "태우다"
+  },
+  {
+    "tango": "死後",
+    "yomikata": "しご",
+    "imi": "사후, 죽은 후"
+  },
+  {
+    "tango": "方法",
+    "yomikata": "ほうほう",
+    "imi": "방법"
+  },
+  {
+    "tango": "~行き (접미어)",
+    "yomikata": "~いき, ~ゆき",
+    "imi": "~행(목적지)"
+  },
+  {
+    "tango": "岩",
+    "yomikata": "いわ",
+    "imi": "바위"
+  },
+  {
+    "tango": "不自由な",
+    "yomikata": "ふじゆうな",
+    "imi": "부자유스러운, 불편한"
+  },
+  {
+    "tango": "いきなり",
+    "yomikata": "",
+    "imi": "갑자기"
+  },
+  {
+    "tango": "税金",
+    "yomikata": "ぜいきん",
+    "imi": "세금"
+  },
+  {
+    "tango": "稼ぐ",
+    "yomikata": "かせぐ",
+    "imi": "(돈, 시간 등을)벌다"
+  },
+  {
+    "tango": "濃い",
+    "yomikata": "こい",
+    "imi": "진하다"
+  },
+  {
+    "tango": "解説",
+    "yomikata": "かいせつ",
+    "imi": "해설"
+  },
+  {
+    "tango": "教師",
+    "yomikata": "きょうし",
+    "imi": "교사"
+  },
+  {
+    "tango": "クリーニング",
+    "yomikata": "",
+    "imi": "세탁"
+  }
+]

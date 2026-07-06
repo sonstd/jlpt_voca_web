@@ -1,0 +1,227 @@
+[
+  {
+    "tango": "レベル",
+    "yomikata": "",
+    "imi": "레벨, 수준"
+  },
+  {
+    "tango": "付く",
+    "yomikata": "つく",
+    "imi": "붙다"
+  },
+  {
+    "tango": "嘘",
+    "yomikata": "うそ",
+    "imi": "거짓말"
+  },
+  {
+    "tango": "なかなか",
+    "yomikata": "",
+    "imi": "꽤, 상당히, 좀처럼(~하지 않는다)"
+  },
+  {
+    "tango": "ガス",
+    "yomikata": "",
+    "imi": "가스"
+  },
+  {
+    "tango": "毛",
+    "yomikata": "け",
+    "imi": "털"
+  },
+  {
+    "tango": "上手い",
+    "yomikata": "うまい",
+    "imi": "잘하다"
+  },
+  {
+    "tango": "非常に",
+    "yomikata": "ひじょうに",
+    "imi": "매우, 상당히"
+  },
+  {
+    "tango": "放送",
+    "yomikata": "ほうそう",
+    "imi": "방송"
+  },
+  {
+    "tango": "文書",
+    "yomikata": "ぶんしょ",
+    "imi": "문서"
+  },
+  {
+    "tango": "飼う",
+    "yomikata": "かう",
+    "imi": "기르다, 사육하다"
+  },
+  {
+    "tango": "濡れる",
+    "yomikata": "ぬれる",
+    "imi": "젖다"
+  },
+  {
+    "tango": "かっこいい",
+    "yomikata": "",
+    "imi": "멋지다"
+  },
+  {
+    "tango": "受付",
+    "yomikata": "うけつけ",
+    "imi": "접수"
+  },
+  {
+    "tango": "お仕舞い",
+    "yomikata": "おしまい",
+    "imi": "끝"
+  },
+  {
+    "tango": "さっき",
+    "yomikata": "",
+    "imi": "조금 전, 아까"
+  },
+  {
+    "tango": "天気予報",
+    "yomikata": "てんきよほう",
+    "imi": "일기 예보"
+  },
+  {
+    "tango": "届ける",
+    "yomikata": "とどける",
+    "imi": "전달하다, 신고하다"
+  },
+  {
+    "tango": "数",
+    "yomikata": "かず",
+    "imi": "수, 숫자"
+  },
+  {
+    "tango": "エスカレーター",
+    "yomikata": "",
+    "imi": "에스컬레이터"
+  },
+  {
+    "tango": "左",
+    "yomikata": "ひだり",
+    "imi": "왼쪽"
+  },
+  {
+    "tango": "遊び",
+    "yomikata": "あそび",
+    "imi": "놀이"
+  },
+  {
+    "tango": "平仮名",
+    "yomikata": "ひらがな",
+    "imi": "히라가나"
+  },
+  {
+    "tango": "打つかる",
+    "yomikata": "ぶつかる",
+    "imi": "부딪치다"
+  },
+  {
+    "tango": "浅い",
+    "yomikata": "あさい",
+    "imi": "얕다"
+  },
+  {
+    "tango": "気",
+    "yomikata": "き",
+    "imi": "생각, 마음, 기력"
+  },
+  {
+    "tango": "表",
+    "yomikata": "おもて",
+    "imi": "겉, 표면"
+  },
+  {
+    "tango": "奥様",
+    "yomikata": "おくさま",
+    "imi": "부인(타인의 부인 존칭)"
+  },
+  {
+    "tango": "出発",
+    "yomikata": "しゅっぱつ",
+    "imi": "출발"
+  },
+  {
+    "tango": "お陰",
+    "yomikata": "おかげ",
+    "imi": "덕분"
+  },
+  {
+    "tango": "オートバイ",
+    "yomikata": "",
+    "imi": "오토바이"
+  },
+  {
+    "tango": "髭",
+    "yomikata": "ひげ",
+    "imi": "수염"
+  },
+  {
+    "tango": "米",
+    "yomikata": "こめ",
+    "imi": "쌀"
+  },
+  {
+    "tango": "美術館",
+    "yomikata": "びじゅつかん",
+    "imi": "미술관"
+  },
+  {
+    "tango": "石",
+    "yomikata": "いし",
+    "imi": "돌"
+  },
+  {
+    "tango": "洗濯",
+    "yomikata": "せんたく",
+    "imi": "세탁"
+  },
+  {
+    "tango": "記者",
+    "yomikata": "きしゃ",
+    "imi": "기자"
+  },
+  {
+    "tango": "包む",
+    "yomikata": "つつむ",
+    "imi": "싸다, 포장하다"
+  },
+  {
+    "tango": "飾る",
+    "yomikata": "かざる",
+    "imi": "장식하다, 꾸미다"
+  },
+  {
+    "tango": "しかし",
+    "yomikata": "",
+    "imi": "그러나 <접속사>"
+  },
+  {
+    "tango": "起こす",
+    "yomikata": "おこす",
+    "imi": "일으키다, 발생시키다"
+  },
+  {
+    "tango": "勤める",
+    "yomikata": "つどめる",
+    "imi": "근무하다"
+  },
+  {
+    "tango": "教育",
+    "yomikata": "きょういく",
+    "imi": "교육"
+  },
+  {
+    "tango": "バイト, アルバイト",
+    "yomikata": "",
+    "imi": "아르바이트"
+  },
+  {
+    "tango": "開く",
+    "yomikata": "ひらく",
+    "imi": "열다, 개최하다"
+  }
+]

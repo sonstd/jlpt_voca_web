@@ -1,0 +1,227 @@
+[
+  {
+    "tango": "わくわく",
+    "yomikata": "",
+    "imi": "두근두근"
+  },
+  {
+    "tango": "最新",
+    "yomikata": "さいしん",
+    "imi": "최신"
+  },
+  {
+    "tango": "過半数",
+    "yomikata": "かはんすう",
+    "imi": "과반수"
+  },
+  {
+    "tango": "振る舞う",
+    "yomikata": "ふるまう",
+    "imi": "행동하다, 대접하다"
+  },
+  {
+    "tango": "監視",
+    "yomikata": "かんし",
+    "imi": "감시"
+  },
+  {
+    "tango": "偶数",
+    "yomikata": "ぐうすう",
+    "imi": "우수, 짝수"
+  },
+  {
+    "tango": "対照",
+    "yomikata": "たいしょう",
+    "imi": "대조, 대비"
+  },
+  {
+    "tango": "寒帯",
+    "yomikata": "かんたい",
+    "imi": "한대, 추운 지역"
+  },
+  {
+    "tango": "構う",
+    "yomikata": "かまう",
+    "imi": "신경쓰다. 상관하다. 상대하다, 돌보다"
+  },
+  {
+    "tango": "日差し",
+    "yomikata": "ひざし",
+    "imi": "햇살, 햇볕"
+  },
+  {
+    "tango": "響く",
+    "yomikata": "ひびく",
+    "imi": "울리다, 울려 퍼지다"
+  },
+  {
+    "tango": "実に",
+    "yomikata": "じつに",
+    "imi": "실로, 정말로"
+  },
+  {
+    "tango": "異常",
+    "yomikata": "いじょう",
+    "imi": "이상"
+  },
+  {
+    "tango": "水蒸気",
+    "yomikata": "すいじょうき",
+    "imi": "수증기, 김"
+  },
+  {
+    "tango": "創作",
+    "yomikata": "そうさく",
+    "imi": "창작"
+  },
+  {
+    "tango": "公務",
+    "yomikata": "こうむ",
+    "imi": "공무"
+  },
+  {
+    "tango": "くわえる",
+    "yomikata": "",
+    "imi": "입에 물다"
+  },
+  {
+    "tango": "厳重な",
+    "yomikata": "げんじゅうな",
+    "imi": "엄중한"
+  },
+  {
+    "tango": "滝",
+    "yomikata": "たき",
+    "imi": "폭포"
+  },
+  {
+    "tango": "間際",
+    "yomikata": "まぎわ",
+    "imi": "직전"
+  },
+  {
+    "tango": "俳優",
+    "yomikata": "はいゆう",
+    "imi": "배우"
+  },
+  {
+    "tango": "喫茶",
+    "yomikata": "きっさ",
+    "imi": "차를 마심"
+  },
+  {
+    "tango": "すっきり",
+    "yomikata": "",
+    "imi": "산뜻하게, 상쾌하게"
+  },
+  {
+    "tango": "着せる",
+    "yomikata": "きせる",
+    "imi": "입히다"
+  },
+  {
+    "tango": "大学院",
+    "yomikata": "だいがくいん",
+    "imi": "대학원"
+  },
+  {
+    "tango": "充電",
+    "yomikata": "じゅうでん",
+    "imi": "충전"
+  },
+  {
+    "tango": "そのほか",
+    "yomikata": "",
+    "imi": "그 외, 기타"
+  },
+  {
+    "tango": "タイヤ",
+    "yomikata": "",
+    "imi": "타이어"
+  },
+  {
+    "tango": "来~ (접두어)",
+    "yomikata": "らい~",
+    "imi": "내(다음의)~"
+  },
+  {
+    "tango": "自身",
+    "yomikata": "じしん",
+    "imi": "자신"
+  },
+  {
+    "tango": "新人",
+    "yomikata": "しんじん",
+    "imi": "신인"
+  },
+  {
+    "tango": "童話",
+    "yomikata": "どうわ",
+    "imi": "동화"
+  },
+  {
+    "tango": "視聴者",
+    "yomikata": "しちょうしゃ",
+    "imi": "시청자"
+  },
+  {
+    "tango": "産地",
+    "yomikata": "さんち",
+    "imi": "산지"
+  },
+  {
+    "tango": "治める",
+    "yomikata": "おさめる",
+    "imi": "통치하다, 다스리다"
+  },
+  {
+    "tango": "来日",
+    "yomikata": "らいにち",
+    "imi": "일본 방문, 방일"
+  },
+  {
+    "tango": "和",
+    "yomikata": "わ",
+    "imi": "일본식의~ 和食 일식"
+  },
+  {
+    "tango": "苦情",
+    "yomikata": "くじょう",
+    "imi": "불평, 불만, 고충"
+  },
+  {
+    "tango": "流行る",
+    "yomikata": "はやる",
+    "imi": "유행하다"
+  },
+  {
+    "tango": "退屈な",
+    "yomikata": "たいくつな",
+    "imi": "지루한, 무료한, 따분한"
+  },
+  {
+    "tango": "呑気な",
+    "yomikata": "のんきな",
+    "imi": "태평한, 느긋한"
+  },
+  {
+    "tango": "そのもの",
+    "yomikata": "",
+    "imi": "그 자체"
+  },
+  {
+    "tango": "刺身",
+    "yomikata": "さしみ",
+    "imi": "생선회"
+  },
+  {
+    "tango": "顔つき",
+    "yomikata": "かおつき",
+    "imi": "얼굴 생김새, 용모"
+  },
+  {
+    "tango": "密接な",
+    "yomikata": "みっせつな",
+    "imi": "밀접한"
+  }
+]

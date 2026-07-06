@@ -1,0 +1,227 @@
+[
+  {
+    "tango": "スキー",
+    "yomikata": "",
+    "imi": "스키"
+  },
+  {
+    "tango": "じゃんけん",
+    "yomikata": "",
+    "imi": "가위바위보"
+  },
+  {
+    "tango": "歓迎",
+    "yomikata": "かんげい",
+    "imi": "환영"
+  },
+  {
+    "tango": "生命",
+    "yomikata": "せいめい",
+    "imi": "생명"
+  },
+  {
+    "tango": "自体",
+    "yomikata": "じたい",
+    "imi": "자체"
+  },
+  {
+    "tango": "優れる",
+    "yomikata": "すぐれる",
+    "imi": "뛰어나다, 우수하다"
+  },
+  {
+    "tango": "敬語",
+    "yomikata": "けいご",
+    "imi": "경어"
+  },
+  {
+    "tango": "売買",
+    "yomikata": "ばいばい",
+    "imi": "매매"
+  },
+  {
+    "tango": "思い切り",
+    "yomikata": "おもいきり",
+    "imi": "마음껏, 힘껏"
+  },
+  {
+    "tango": "終電",
+    "yomikata": "しゅうでん",
+    "imi": "막차, 마지막 전철"
+  },
+  {
+    "tango": "地域",
+    "yomikata": "ちいき",
+    "imi": "지역"
+  },
+  {
+    "tango": "欠ける",
+    "yomikata": "かける",
+    "imi": "부족하다"
+  },
+  {
+    "tango": "はさみ",
+    "yomikata": "",
+    "imi": "가위"
+  },
+  {
+    "tango": "克服",
+    "yomikata": "こくふく",
+    "imi": "극복"
+  },
+  {
+    "tango": "国境",
+    "yomikata": "こっきょう",
+    "imi": "국경"
+  },
+  {
+    "tango": "暴れる",
+    "yomikata": "あばれる",
+    "imi": "날뛰다. 난폭하게 굴다"
+  },
+  {
+    "tango": "落第",
+    "yomikata": "らくだい",
+    "imi": "낙제, 낙방, 유급"
+  },
+  {
+    "tango": "争う",
+    "yomikata": "あらそう",
+    "imi": "싸우다. 다투다"
+  },
+  {
+    "tango": "着替え",
+    "yomikata": "きがえ",
+    "imi": "옷을 갈아입음"
+  },
+  {
+    "tango": "厚かましい",
+    "yomikata": "あつかましい",
+    "imi": "뻔뻔스럽다"
+  },
+  {
+    "tango": "制度",
+    "yomikata": "せいど",
+    "imi": "제도"
+  },
+  {
+    "tango": "軒",
+    "yomikata": "のき",
+    "imi": "처마"
+  },
+  {
+    "tango": "社員",
+    "yomikata": "しゃいん",
+    "imi": "사원"
+  },
+  {
+    "tango": "元",
+    "yomikata": "もと",
+    "imi": "원래"
+  },
+  {
+    "tango": "逸れる",
+    "yomikata": "それる",
+    "imi": "빗나가다, 벗어나다"
+  },
+  {
+    "tango": "食塩",
+    "yomikata": "しょくえん",
+    "imi": "식염, 식용 소금"
+  },
+  {
+    "tango": "だらしない",
+    "yomikata": "",
+    "imi": "야무지지 못하다, 단정하지 못하다"
+  },
+  {
+    "tango": "心強い",
+    "yomikata": "こころづよい",
+    "imi": "든든하다"
+  },
+  {
+    "tango": "説得",
+    "yomikata": "せっとく",
+    "imi": "설득"
+  },
+  {
+    "tango": "認める",
+    "yomikata": "みとめる",
+    "imi": "인정하다"
+  },
+  {
+    "tango": "~制",
+    "yomikata": "~せい",
+    "imi": "~제(제도, 규칙)"
+  },
+  {
+    "tango": "恐れ",
+    "yomikata": "おそれ",
+    "imi": "두려움, 우려"
+  },
+  {
+    "tango": "もたれる",
+    "yomikata": "",
+    "imi": "기대다, 의지하다"
+  },
+  {
+    "tango": "小数",
+    "yomikata": "しょうすう",
+    "imi": "소수(1보다 작은 수)"
+  },
+  {
+    "tango": "初め",
+    "yomikata": "はじめ",
+    "imi": "처음, 시작"
+  },
+  {
+    "tango": "お辞儀",
+    "yomikata": "おじぎ",
+    "imi": "인사, 절"
+  },
+  {
+    "tango": "知らず知らず",
+    "yomikata": "しらずしらず",
+    "imi": "자기도 모르게, 무심코"
+  },
+  {
+    "tango": "ウール",
+    "yomikata": "",
+    "imi": "울, 모직"
+  },
+  {
+    "tango": "対戦",
+    "yomikata": "たいせん",
+    "imi": "대전, 대항전"
+  },
+  {
+    "tango": "一言",
+    "yomikata": "ひとこと",
+    "imi": "한마디"
+  },
+  {
+    "tango": "防犯",
+    "yomikata": "ぼうはん",
+    "imi": "방범"
+  },
+  {
+    "tango": "しょうがない",
+    "yomikata": "",
+    "imi": "어쩔 수 없다, 다른 방법이 없다"
+  },
+  {
+    "tango": "悠々",
+    "yomikata": "ゆうゆう",
+    "imi": "유유히, 여유롭게"
+  },
+  {
+    "tango": "ナイロン",
+    "yomikata": "",
+    "imi": "나일론"
+  },
+  {
+    "tango": "前進",
+    "yomikata": "ぜんしん",
+    "imi": "전진"
+  }
+]

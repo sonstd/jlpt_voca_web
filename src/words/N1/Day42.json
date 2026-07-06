@@ -1,0 +1,232 @@
+[
+  {
+    "tango": "残酷な",
+    "yomikata": "ざんこくな",
+    "imi": "잔혹한, 잔인한"
+  },
+  {
+    "tango": "繊細な",
+    "yomikata": "せんさいな",
+    "imi": "섬세한"
+  },
+  {
+    "tango": "エレガントな",
+    "yomikata": "",
+    "imi": "고상한, 우아한"
+  },
+  {
+    "tango": "回覧",
+    "yomikata": "かいらん",
+    "imi": "회람"
+  },
+  {
+    "tango": "積み立てる",
+    "yomikata": "つみたてる",
+    "imi": "적립하다, 모으다"
+  },
+  {
+    "tango": "デジタル",
+    "yomikata": "",
+    "imi": "디지털"
+  },
+  {
+    "tango": "ダウンロード",
+    "yomikata": "",
+    "imi": "다운로드"
+  },
+  {
+    "tango": "触発",
+    "yomikata": "しょくはつ",
+    "imi": "촉발, 자극을 줌"
+  },
+  {
+    "tango": "仕立てる",
+    "yomikata": "したてる",
+    "imi": "만들다, 길러내다, 양성하다"
+  },
+  {
+    "tango": "最悪",
+    "yomikata": "さいあく",
+    "imi": "최악"
+  },
+  {
+    "tango": "改修",
+    "yomikata": "かいしゅう",
+    "imi": "개수, 수리"
+  },
+  {
+    "tango": "著しい",
+    "yomikata": "いちじるしい",
+    "imi": "뚜렷하다, 두드러지다, 현저하다"
+  },
+  {
+    "tango": "感受性",
+    "yomikata": "かんじゅせい",
+    "imi": "감수성"
+  },
+  {
+    "tango": "総額",
+    "yomikata": "そうがく",
+    "imi": "총액"
+  },
+  {
+    "tango": "本能",
+    "yomikata": "ほんのう",
+    "imi": "본능"
+  },
+  {
+    "tango": "議決",
+    "yomikata": "ぎけつ",
+    "imi": "의결"
+  },
+  {
+    "tango": "絡む",
+    "yomikata": "からむ",
+    "imi": "휘감기다, 관련되다"
+  },
+  {
+    "tango": "取り巻く",
+    "yomikata": "とりまく",
+    "imi": "둘러싸다"
+  },
+  {
+    "tango": "悲惨な",
+    "yomikata": "ひさんな",
+    "imi": "비참한"
+  },
+  {
+    "tango": "厳密な",
+    "yomikata": "げんみつな",
+    "imi": "엄밀한"
+  },
+  {
+    "tango": "ナチュラルな",
+    "yomikata": "",
+    "imi": "내추럴한, 천연의"
+  },
+  {
+    "tango": "粘る",
+    "yomikata": "ねばる",
+    "imi": "끈기있다, 끝까지 버티다"
+  },
+  {
+    "tango": "徴収",
+    "yomikata": "ちょうしゅう",
+    "imi": "징수"
+  },
+  {
+    "tango": "とっさに",
+    "yomikata": "",
+    "imi": "순간, 순간적으로"
+  },
+  {
+    "tango": "下調べ",
+    "yomikata": "したしらべ",
+    "imi": "예비 조사"
+  },
+  {
+    "tango": "取り調べる",
+    "yomikata": "とりしらべる",
+    "imi": "조사하다, 취조하다"
+  },
+  {
+    "tango": "暗算",
+    "yomikata": "あんざん",
+    "imi": "암산"
+  },
+  {
+    "tango": "密封",
+    "yomikata": "みっぷう",
+    "imi": "밀봉"
+  },
+  {
+    "tango": "ちらっと",
+    "yomikata": "",
+    "imi": "언뜻, 홀끗, 슬쩍 = ちらりと"
+  },
+  {
+    "tango": "堕落",
+    "yomikata": "だらく",
+    "imi": "타락"
+  },
+  {
+    "tango": "格差",
+    "yomikata": "かくさ",
+    "imi": "격차"
+  },
+  {
+    "tango": "心情",
+    "yomikata": "しんじょう",
+    "imi": "심정"
+  },
+  {
+    "tango": "徐行",
+    "yomikata": "じょこう",
+    "imi": "서행"
+  },
+  {
+    "tango": "確定",
+    "yomikata": "かくてい",
+    "imi": "확정"
+  },
+  {
+    "tango": "ひいき",
+    "yomikata": "",
+    "imi": "편애, 편을 듦, 후원"
+  },
+  {
+    "tango": "点検",
+    "yomikata": "てんけん",
+    "imi": "점검"
+  },
+  {
+    "tango": "資産",
+    "yomikata": "しさん",
+    "imi": "자산"
+  },
+  {
+    "tango": "老朽化",
+    "yomikata": "ろうきゅうか",
+    "imi": "노후화"
+  },
+  {
+    "tango": "立法",
+    "yomikata": "りっぽう",
+    "imi": "입법"
+  },
+  {
+    "tango": "デビュー",
+    "yomikata": "",
+    "imi": "데뷔, 첫등장"
+  },
+  {
+    "tango": "詰る",
+    "yomikata": "なじる",
+    "imi": "힐책하다, 따지다"
+  },
+  {
+    "tango": "ぼつぼつ",
+    "yomikata": "",
+    "imi": "① 슬슬, 조금씩 ② 점점이, 여기저기"
+  },
+  {
+    "tango": "家計",
+    "yomikata": "かけい",
+    "imi": "가계, 살림살이"
+  },
+  {
+    "tango": "異議",
+    "yomikata": "いぎ",
+    "imi": "이의, 다른 의견"
+  },
+  {
+    "tango": "持て余す",
+    "yomikata": "もてあます",
+    "imi": "주체하지 못하다, 처치 곤란해하다"
+  },
+  {
+    "tango": "コメント",
+    "yomikata": "",
+    "imi": "코멘트, 견해, 의견"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "tango": "この間",
+    "yomikata": "このあいだ",
+    "imi": "지난 번"
+  },
+  {
+    "tango": "新年",
+    "yomikata": "しんねん",
+    "imi": "신년"
+  },
+  {
+    "tango": "落とす",
+    "yomikata": "おとす",
+    "imi": "떨어뜨리다, 잃어버리다"
+  },
+  {
+    "tango": "砂",
+    "yomikata": "すな",
+    "imi": "모래"
+  },
+  {
+    "tango": "急行",
+    "yomikata": "きゅうこう",
+    "imi": "급행"
+  },
+  {
+    "tango": "悲しい",
+    "yomikata": "かなしい",
+    "imi": "슬프다"
+  },
+  {
+    "tango": "たまに",
+    "yomikata": "",
+    "imi": "간혹, 가끔"
+  },
+  {
+    "tango": "市民",
+    "yomikata": "しみん",
+    "imi": "시민"
+  },
+  {
+    "tango": "中止",
+    "yomikata": "ちゅうし",
+    "imi": "중지"
+  },
+  {
+    "tango": "怒る",
+    "yomikata": "おこる",
+    "imi": "화를 내다"
+  },
+  {
+    "tango": "晴れる",
+    "yomikata": "はれる",
+    "imi": "맑아지다"
+  },
+  {
+    "tango": "無くなる",
+    "yomikata": "なくなる",
+    "imi": "없어지다"
+  },
+  {
+    "tango": "本屋",
+    "yomikata": "ほんや",
+    "imi": "서점"
+  },
+  {
+    "tango": "塗る",
+    "yomikata": "ぬる",
+    "imi": "바르다, 칠하다"
+  },
+  {
+    "tango": "産業",
+    "yomikata": "さんぎょう",
+    "imi": "산업"
+  },
+  {
+    "tango": "最近",
+    "yomikata": "さいきん",
+    "imi": "최근"
+  },
+  {
+    "tango": "彼氏",
+    "yomikata": "かれし",
+    "imi": "남자친구"
+  },
+  {
+    "tango": "運動会",
+    "yomikata": "うんどうかい",
+    "imi": "운동회"
+  },
+  {
+    "tango": "セット",
+    "yomikata": "",
+    "imi": "세트"
+  },
+  {
+    "tango": "苛める",
+    "yomikata": "いじめる",
+    "imi": "괴롭히다"
+  },
+  {
+    "tango": "止める",
+    "yomikata": "とめる",
+    "imi": "멈추다, 세우다"
+  },
+  {
+    "tango": "人形",
+    "yomikata": "にんぎょう",
+    "imi": "인형"
+  },
+  {
+    "tango": "予定",
+    "yomikata": "よてい",
+    "imi": "예정"
+  },
+  {
+    "tango": "直す",
+    "yomikata": "なおす",
+    "imi": "고치다, 수리하다"
+  },
+  {
+    "tango": "祖母",
+    "yomikata": "そぼ",
+    "imi": "할머니"
+  },
+  {
+    "tango": "おば",
+    "yomikata": "",
+    "imi": "고모, 이모, 숙모"
+  },
+  {
+    "tango": "日記",
+    "yomikata": "にっき",
+    "imi": "일기"
+  },
+  {
+    "tango": "集まる",
+    "yomikata": "あつまる",
+    "imi": "모이다"
+  },
+  {
+    "tango": "テニス",
+    "yomikata": "",
+    "imi": "테니스"
+  },
+  {
+    "tango": "大切な",
+    "yomikata": "だいせつな",
+    "imi": "(정서적, 개인적)중요한, 소중한"
+  },
+  {
+    "tango": "おっしゃる",
+    "yomikata": "",
+    "imi": "말씀하시다 (존경어)"
+  },
+  {
+    "tango": "以外",
+    "yomikata": "いがい",
+    "imi": "이외"
+  },
+  {
+    "tango": "玄関",
+    "yomikata": "げんかん",
+    "imi": "현관"
+  },
+  {
+    "tango": "それでは",
+    "yomikata": "",
+    "imi": "그러면 <접속사>"
+  },
+  {
+    "tango": "ペット",
+    "yomikata": "",
+    "imi": "애완동물"
+  },
+  {
+    "tango": "きっと",
+    "yomikata": "",
+    "imi": "반드시, 틀림없이"
+  },
+  {
+    "tango": "退院",
+    "yomikata": "たいいん",
+    "imi": "퇴원"
+  },
+  {
+    "tango": "気持ち",
+    "yomikata": "きもち",
+    "imi": "기분, 느낌, 마음"
+  },
+  {
+    "tango": "相談",
+    "yomikata": "そうだん",
+    "imi": "상담"
+  },
+  {
+    "tango": "飾り",
+    "yomikata": "かざり",
+    "imi": "장식"
+  },
+  {
+    "tango": "値段",
+    "yomikata": "ねだん",
+    "imi": "가격"
+  },
+  {
+    "tango": "三角",
+    "yomikata": "さんかく",
+    "imi": "삼각"
+  },
+  {
+    "tango": "眠たい",
+    "yomikata": "ねむたい",
+    "imi": "졸리다"
+  },
+  {
+    "tango": "もちろん",
+    "yomikata": "",
+    "imi": "물론"
+  },
+  {
+    "tango": "途中",
+    "yomikata": "とちゅう",
+    "imi": "(~하던)도중"
+  }
+]

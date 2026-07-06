@@ -1,0 +1,227 @@
+[
+  {
+    "tango": "セーター",
+    "yomikata": "",
+    "imi": "스웨터"
+  },
+  {
+    "tango": "高い",
+    "yomikata": "たかい",
+    "imi": "높다, 비싸다"
+  },
+  {
+    "tango": "咲く",
+    "yomikata": "さく",
+    "imi": "(꽃이)피다"
+  },
+  {
+    "tango": "九",
+    "yomikata": "きゅう, く",
+    "imi": "9"
+  },
+  {
+    "tango": "海",
+    "yomikata": "うみ",
+    "imi": "바다"
+  },
+  {
+    "tango": "朝ご飯",
+    "yomikata": "あさごはん",
+    "imi": "아침밥"
+  },
+  {
+    "tango": "聞く",
+    "yomikata": "きく",
+    "imi": "듣다, 묻다"
+  },
+  {
+    "tango": "あまり",
+    "yomikata": "",
+    "imi": "너무, 지나치게, 그다지"
+  },
+  {
+    "tango": "問題",
+    "yomikata": "もんだい",
+    "imi": "문제"
+  },
+  {
+    "tango": "誰",
+    "yomikata": "だれ",
+    "imi": "누구"
+  },
+  {
+    "tango": "足",
+    "yomikata": "あし",
+    "imi": "발"
+  },
+  {
+    "tango": "ハンカチ",
+    "yomikata": "",
+    "imi": "손수건"
+  },
+  {
+    "tango": "昼ご飯",
+    "yomikata": "ひるごはん",
+    "imi": "점심 밥"
+  },
+  {
+    "tango": "たくさん",
+    "yomikata": "",
+    "imi": "잔뜩"
+  },
+  {
+    "tango": "遅い",
+    "yomikata": "おそい",
+    "imi": "늦다, 느리다"
+  },
+  {
+    "tango": "作り方",
+    "yomikata": "つくりかた",
+    "imi": "만드는 법"
+  },
+  {
+    "tango": "新しい",
+    "yomikata": "あたらしい",
+    "imi": "새롭다"
+  },
+  {
+    "tango": "花瓶",
+    "yomikata": "かびん",
+    "imi": "꽃병"
+  },
+  {
+    "tango": "鶏肉",
+    "yomikata": "とりにく",
+    "imi": "닭고기"
+  },
+  {
+    "tango": "クラス",
+    "yomikata": "",
+    "imi": "클래스, 반"
+  },
+  {
+    "tango": "浴びる",
+    "yomikata": "あびる",
+    "imi": "(흠뻑)뒤집어쓰다, 쬐다"
+  },
+  {
+    "tango": "どれ",
+    "yomikata": "",
+    "imi": "어느 것"
+  },
+  {
+    "tango": "靴",
+    "yomikata": "くつ",
+    "imi": "신발, 구두"
+  },
+  {
+    "tango": "六日",
+    "yomikata": "むいか",
+    "imi": "6일"
+  },
+  {
+    "tango": "犬",
+    "yomikata": "いぬ",
+    "imi": "개"
+  },
+  {
+    "tango": "お客さん",
+    "yomikata": "おきゃくさん",
+    "imi": "손님"
+  },
+  {
+    "tango": "木",
+    "yomikata": "き",
+    "imi": "나무"
+  },
+  {
+    "tango": "女の人",
+    "yomikata": "おんなのひと",
+    "imi": "여자"
+  },
+  {
+    "tango": "いくら",
+    "yomikata": "",
+    "imi": "얼마(금액)"
+  },
+  {
+    "tango": "今月",
+    "yomikata": "こんげつ",
+    "imi": "이번 달"
+  },
+  {
+    "tango": "呼ぶ",
+    "yomikata": "よぶ",
+    "imi": "초대하다, 부르다"
+  },
+  {
+    "tango": "練習",
+    "yomikata": "れんしゅう",
+    "imi": "연습"
+  },
+  {
+    "tango": "消える",
+    "yomikata": "きえる",
+    "imi": "사라지다, 꺼지다"
+  },
+  {
+    "tango": "撮る",
+    "yomikata": "とる",
+    "imi": "(사진, 영상을)찍다"
+  },
+  {
+    "tango": "三つ",
+    "yomikata": "みっつ",
+    "imi": "세개"
+  },
+  {
+    "tango": "風邪",
+    "yomikata": "かぜ",
+    "imi": "감기"
+  },
+  {
+    "tango": "遠い",
+    "yomikata": "とおい",
+    "imi": "멀다"
+  },
+  {
+    "tango": "家",
+    "yomikata": "いえ",
+    "imi": "집"
+  },
+  {
+    "tango": "玉子",
+    "yomikata": "たまご",
+    "imi": "계란"
+  },
+  {
+    "tango": "大きな",
+    "yomikata": "おおきな",
+    "imi": "큰, 커다란"
+  },
+  {
+    "tango": "散歩",
+    "yomikata": "さんぽ",
+    "imi": "산책"
+  },
+  {
+    "tango": "帰る",
+    "yomikata": "かえる",
+    "imi": "돌아가다, 돌아오다"
+  },
+  {
+    "tango": "色々",
+    "yomikata": "いろいろ",
+    "imi": "여러가지, 갖가지"
+  },
+  {
+    "tango": "飛行機",
+    "yomikata": "ひこうき",
+    "imi": "비행기"
+  },
+  {
+    "tango": "ホテル",
+    "yomikata": "",
+    "imi": "호텔"
+  }
+]

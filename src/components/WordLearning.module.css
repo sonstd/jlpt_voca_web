@@ -62,23 +62,34 @@
   text-align: center;
 }
 
-.eng {
-  font-size: 36px;
+/* 단어 (한자/가나 표기) */
+.tango {
+  font-size: 44px;
   font-weight: 800;
   color: var(--color-text-primary);
   margin: 0;
+  line-height: 1.2;
 }
 
 .revealArea {
   display: flex;
   flex-direction: column;
+  align-items: center;
   gap: 10px;
-  margin-top: 8px;
   animation: fadeIn 0.15s ease;
 }
 
-.kor {
+/* 히라가나 읽는 법 */
+.yomikata {
   font-size: 22px;
+  color: var(--color-text-secondary);
+  margin: 0;
+  letter-spacing: 0.05em;
+}
+
+/* 한국어 뜻 */
+.imi {
+  font-size: 24px;
   font-weight: 700;
   color: var(--color-kor);
   margin: 0;

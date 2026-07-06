@@ -1,0 +1,227 @@
+[
+  {
+    "tango": "オーケストラ",
+    "yomikata": "",
+    "imi": "오케스트라"
+  },
+  {
+    "tango": "審判",
+    "yomikata": "しんぱん",
+    "imi": "심판"
+  },
+  {
+    "tango": "堪える",
+    "yomikata": "こらえる",
+    "imi": "견디다"
+  },
+  {
+    "tango": "恐怖",
+    "yomikata": "きょうふ",
+    "imi": "공포"
+  },
+  {
+    "tango": "でたらめな",
+    "yomikata": "",
+    "imi": "터무니없는, 엉터리같은, 허튼 소리"
+  },
+  {
+    "tango": "グランド",
+    "yomikata": "",
+    "imi": "그랜드, 대규모의, 대형의"
+  },
+  {
+    "tango": "等しい",
+    "yomikata": "ひとしい",
+    "imi": "같다, 동일하다"
+  },
+  {
+    "tango": "とりあえず",
+    "yomikata": "",
+    "imi": "우선, 일단"
+  },
+  {
+    "tango": "農産物",
+    "yomikata": "のうさんぶつ",
+    "imi": "농산물"
+  },
+  {
+    "tango": "凍る",
+    "yomikata": "こおる",
+    "imi": "얼다"
+  },
+  {
+    "tango": "膨らます",
+    "yomikata": "ふくらます",
+    "imi": "부풀리다, 부풀게 하다"
+  },
+  {
+    "tango": "くっつく",
+    "yomikata": "",
+    "imi": "들러붙다"
+  },
+  {
+    "tango": "基本",
+    "yomikata": "きほん",
+    "imi": "기본"
+  },
+  {
+    "tango": "休講",
+    "yomikata": "きゅうこう",
+    "imi": "휴강"
+  },
+  {
+    "tango": "苦心",
+    "yomikata": "くしん",
+    "imi": "고심"
+  },
+  {
+    "tango": "労働",
+    "yomikata": "ろうどう",
+    "imi": "노동"
+  },
+  {
+    "tango": "神経質な",
+    "yomikata": "しんけいしつな",
+    "imi": "신경질적인"
+  },
+  {
+    "tango": "後ほど",
+    "yomikata": "のちほど",
+    "imi": "나중에, 잠시 후에"
+  },
+  {
+    "tango": "面積",
+    "yomikata": "めんせき",
+    "imi": "면적"
+  },
+  {
+    "tango": "拡張",
+    "yomikata": "かくちょう",
+    "imi": "확장"
+  },
+  {
+    "tango": "兼ねる",
+    "yomikata": "かねる",
+    "imi": "겸하다"
+  },
+  {
+    "tango": "批判",
+    "yomikata": "ひはん",
+    "imi": "비판"
+  },
+  {
+    "tango": "永久",
+    "yomikata": "えいきゅう",
+    "imi": "영구, 영원"
+  },
+  {
+    "tango": "植木",
+    "yomikata": "うえき",
+    "imi": "정원수"
+  },
+  {
+    "tango": "縮れる",
+    "yomikata": "ちぢれる",
+    "imi": "주름지다, 곱슬거리다, 오그라들다"
+  },
+  {
+    "tango": "筋",
+    "yomikata": "すじ",
+    "imi": "① 근육   ② 줄기   ③ 줄거리"
+  },
+  {
+    "tango": "チェンジ",
+    "yomikata": "",
+    "imi": "체인지, 교체"
+  },
+  {
+    "tango": "学者",
+    "yomikata": "がくしゃ",
+    "imi": "학자"
+  },
+  {
+    "tango": "見かけ",
+    "yomikata": "みかけ",
+    "imi": "외관, 겉보기"
+  },
+  {
+    "tango": "安定",
+    "yomikata": "あんてい",
+    "imi": "안정"
+  },
+  {
+    "tango": "~離れ",
+    "yomikata": "~はなれ",
+    "imi": "~에서 동떨어짐"
+  },
+  {
+    "tango": "代名詞",
+    "yomikata": "だいめいし",
+    "imi": "대명사"
+  },
+  {
+    "tango": "吐く",
+    "yomikata": "はく",
+    "imi": "구토하다, 뱉다"
+  },
+  {
+    "tango": "気配",
+    "yomikata": "けはい",
+    "imi": "기색"
+  },
+  {
+    "tango": "催促",
+    "yomikata": "さいそく",
+    "imi": "재촉"
+  },
+  {
+    "tango": "仕方がない",
+    "yomikata": "しかたがない",
+    "imi": "어쩔 수 없다, 방법이 없다"
+  },
+  {
+    "tango": "恩恵",
+    "yomikata": "おんけい",
+    "imi": "은혜, 혜택"
+  },
+  {
+    "tango": "ベテラン",
+    "yomikata": "",
+    "imi": "베테랑, 숙련자, 전문가"
+  },
+  {
+    "tango": "早起き",
+    "yomikata": "はやおき",
+    "imi": "일찍 일어남, 조기"
+  },
+  {
+    "tango": "都",
+    "yomikata": "みやこ",
+    "imi": "도시, 수도"
+  },
+  {
+    "tango": "虎",
+    "yomikata": "とら",
+    "imi": "호랑이"
+  },
+  {
+    "tango": "重量",
+    "yomikata": "じゅうりょう",
+    "imi": "중량, 무게"
+  },
+  {
+    "tango": "絶えず",
+    "yomikata": "たえず",
+    "imi": "끊임없이, 항상"
+  },
+  {
+    "tango": "指摘",
+    "yomikata": "してき",
+    "imi": "지적"
+  },
+  {
+    "tango": "検討",
+    "yomikata": "けんとう",
+    "imi": "검토"
+  }
+]

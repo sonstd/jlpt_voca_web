@@ -1,0 +1,230 @@
+[
+  {
+    "tango": "いつも",
+    "yomikata": "",
+    "imi": "언제나, 항상"
+  },
+  {
+    "tango": "ナイフ",
+    "yomikata": "",
+    "imi": "칼, 나이프"
+  },
+  {
+    "tango": "夕方",
+    "yomikata": "ゆうがた",
+    "imi": "저녁"
+  },
+  {
+    "tango": "どう",
+    "yomikata": "",
+    "imi": "어떻게, 아무리"
+  },
+  {
+    "tango": "何",
+    "yomikata": "なに, なん",
+    "imi": "무엇"
+  },
+  {
+    "tango": "部屋",
+    "yomikata": "へや",
+    "imi": "방"
+  },
+  {
+    "tango": "それ",
+    "yomikata": "",
+    "imi": "그것"
+  },
+  {
+    "tango": "眼鏡",
+    "yomikata": "めがね",
+    "imi": "안경"
+  },
+  {
+    "tango": "四つ",
+    "yomikata": "よっつ",
+    "imi": "네개"
+  },
+  {
+    "tango": "同じ",
+    "yomikata": "おなじ",
+    "imi": "같은"
+  },
+  {
+    "tango": "お弁当",
+    "yomikata": "おべんとう",
+    "imi": "도시락"
+  },
+  {
+    "tango": "皆さん",
+    "yomikata": "みなさん",
+    "imi": "여러분"
+  },
+  {
+    "tango": "次",
+    "yomikata": "つぎ",
+    "imi": "다음"
+  },
+  {
+    "tango": "番号",
+    "yomikata": "ばんごう",
+    "imi": "번호"
+  },
+  {
+    "tango": "写真",
+    "yomikata": "しゃしん",
+    "imi": "사진"
+  },
+  {
+    "tango": "お酒",
+    "yomikata": "おさけ",
+    "imi": "술"
+  },
+  {
+    "tango": "上げる",
+    "yomikata": "あげる",
+    "imi": "올리다, 들다"
+  },
+  {
+    "tango": "八",
+    "yomikata": "はち",
+    "imi": "8"
+  },
+  {
+    "tango": "掛かる",
+    "yomikata": "かかる",
+    "imi": "(시간이)걸리다, (돈이)들다"
+  },
+  {
+    "tango": "来る",
+    "yomikata": "くる",
+    "imi": "오다"
+  },
+  {
+    "tango": "塩",
+    "yomikata": "しお",
+    "imi": "소금"
+  },
+  {
+    "tango": "泳ぐ",
+    "yomikata": "およぐ",
+    "imi": "헤엄치다"
+  },
+  {
+    "tango": "たばこ",
+    "yomikata": "",
+    "imi": "담배"
+  },
+  {
+    "tango": "丸い",
+    "yomikata": "まるい",
+    "imi": "둥글다"
+  },
+  {
+    "tango": "薄い",
+    "yomikata": "うすい",
+    "imi": "얇다"
+  },
+  {
+    "tango": "毎週",
+    "yomikata": "まいしゅう",
+    "imi": "매주"
+  },
+  {
+    "tango": "英語",
+    "yomikata": "えいご",
+    "imi": "영어"
+  },
+  {
+    "tango": "料理",
+    "yomikata": "りょうり",
+    "imi": "요리"
+  },
+  {
+    "tango": "毎年",
+    "yomikata": "まいねん, まいとし",
+    "imi": "매년"
+  },
+  {
+    "tango": "町",
+    "yomikata": "まち",
+    "imi": "마을"
+  },
+  {
+    "tango": "歌",
+    "yomikata": "うた",
+    "imi": "노래"
+  },
+  {
+    "tango": "赤い",
+    "yomikata": "あかい",
+    "imi": "붉다, 빨갛다"
+  },
+  {
+    "tango": "押す",
+    "yomikata": "おす",
+    "imi": "누르다, 밀다"
+  },
+  {
+    "tango": "上手な",
+    "yomikata": "じょうずな",
+    "imi": "능숙한"
+  },
+  {
+    "tango": "山",
+    "yomikata": "やま",
+    "imi": "산"
+  },
+  {
+    "tango": "卵",
+    "yomikata": "たまご",
+    "imi": "달걀"
+  },
+  {
+    "tango": "昼",
+    "yomikata": "ひる",
+    "imi": "낮"
+  },
+  {
+    "tango": "お姉さん",
+    "yomikata": "おねえさん",
+    "imi": "누나, 언니"
+  },
+  {
+    "tango": "地下鉄",
+    "yomikata": "ちかてつ",
+    "imi": "지하철"
+  },
+  {
+    "tango": "安い",
+    "yomikata": "やすい",
+    "imi": "(값이) 싸다, (마음이) 편하다."
+  },
+  {
+    "tango": "入れる",
+    "yomikata": "いれる",
+    "imi": "넣다"
+  },
+  {
+    "tango": "四",
+    "yomikata": "よん, し",
+    "imi": "4"
+  },
+  {
+    "tango": "死ぬ",
+    "yomikata": "しぬ",
+    "imi": "죽다"
+  },
+  {
+    "tango": "西",
+    "yomikata": "にし",
+    "imi": "서쪽"
+  },
+  {
+    "tango": "辞書",
+    "yomikata": "じしょ",
+    "imi": "사전"
+  }
+]ぼえる",
+    "imi": "기억하다, 외우다"
+  }
+]

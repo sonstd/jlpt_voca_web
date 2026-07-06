@@ -1,0 +1,232 @@
+[
+  {
+    "tango": "水準",
+    "yomikata": "すいじゅん",
+    "imi": "수준"
+  },
+  {
+    "tango": "騒がしい",
+    "yomikata": "さわがしい",
+    "imi": "소란스럽다"
+  },
+  {
+    "tango": "世間",
+    "yomikata": "せけん",
+    "imi": "세상"
+  },
+  {
+    "tango": "稼動",
+    "yomikata": "かどう",
+    "imi": "가동, 움직여 일함"
+  },
+  {
+    "tango": "唾",
+    "yomikata": "つば",
+    "imi": "침, 타액"
+  },
+  {
+    "tango": "状態",
+    "yomikata": "じょうたい",
+    "imi": "상태"
+  },
+  {
+    "tango": "案",
+    "yomikata": "あん",
+    "imi": "안, 생각"
+  },
+  {
+    "tango": "恐れる",
+    "yomikata": "おそれる",
+    "imi": "두려워하다"
+  },
+  {
+    "tango": "微妙な",
+    "yomikata": "びみょうな",
+    "imi": "미묘한"
+  },
+  {
+    "tango": "見つめる",
+    "yomikata": "みつめる",
+    "imi": "응시하다, 주시하다"
+  },
+  {
+    "tango": "起床",
+    "yomikata": "きしょう",
+    "imi": "기상, 잠자리에서 일어남"
+  },
+  {
+    "tango": "かき混ぜる",
+    "yomikata": "かきまぜる",
+    "imi": "뒤섞다, 휘젓다"
+  },
+  {
+    "tango": "添加",
+    "yomikata": "てんか",
+    "imi": "첨가"
+  },
+  {
+    "tango": "課程",
+    "yomikata": "かてい",
+    "imi": "과정(코스)"
+  },
+  {
+    "tango": "錆びる",
+    "yomikata": "さびる",
+    "imi": "녹슬다"
+  },
+  {
+    "tango": "コーチ",
+    "yomikata": "",
+    "imi": "코치, 지도, 지도자"
+  },
+  {
+    "tango": "最中",
+    "yomikata": "さいちゅう",
+    "imi": "한창인 때"
+  },
+  {
+    "tango": "かさかさ",
+    "yomikata": "",
+    "imi": "꺼칠꺼칠"
+  },
+  {
+    "tango": "列島",
+    "yomikata": "れっとう",
+    "imi": "열도"
+  },
+  {
+    "tango": "~力",
+    "yomikata": "~りょく",
+    "imi": "~력(능력)"
+  },
+  {
+    "tango": "熱する",
+    "yomikata": "ねっする",
+    "imi": "뜨겁게 하다, 가열하다"
+  },
+  {
+    "tango": "悲劇",
+    "yomikata": "ひげき",
+    "imi": "비극"
+  },
+  {
+    "tango": "納税",
+    "yomikata": "のうぜい",
+    "imi": "납세"
+  },
+  {
+    "tango": "釜",
+    "yomikata": "かま",
+    "imi": "솥"
+  },
+  {
+    "tango": "近頃",
+    "yomikata": "ちかごろ",
+    "imi": "최근, 요즘"
+  },
+  {
+    "tango": "小学生",
+    "yomikata": "しょうがくせい",
+    "imi": "초등학생"
+  },
+  {
+    "tango": "豪華な",
+    "yomikata": "ごうかな",
+    "imi": "호화스러운, 호화로운"
+  },
+  {
+    "tango": "学術",
+    "yomikata": "がくじゅつ",
+    "imi": "학술"
+  },
+  {
+    "tango": "~おきに (접미어)",
+    "yomikata": "",
+    "imi": "~걸러, ~간격으로"
+  },
+  {
+    "tango": "透明な",
+    "yomikata": "とうめいな",
+    "imi": "투명한"
+  },
+  {
+    "tango": "後期",
+    "yomikata": "こうき",
+    "imi": "후기"
+  },
+  {
+    "tango": "成分",
+    "yomikata": "せいぶん",
+    "imi": "성분"
+  },
+  {
+    "tango": "寄付",
+    "yomikata": "きふ",
+    "imi": "기부"
+  },
+  {
+    "tango": "つねる",
+    "yomikata": "",
+    "imi": "꼬집다"
+  },
+  {
+    "tango": "はたして",
+    "yomikata": "",
+    "imi": "과연, 역시"
+  },
+  {
+    "tango": "頭脳",
+    "yomikata": "ずのう",
+    "imi": "두뇌"
+  },
+  {
+    "tango": "侵入",
+    "yomikata": "しんにゅう",
+    "imi": "침입"
+  },
+  {
+    "tango": "分野",
+    "yomikata": "ぶんや",
+    "imi": "분야"
+  },
+  {
+    "tango": "地盤",
+    "yomikata": "じばん",
+    "imi": "지반"
+  },
+  {
+    "tango": "推定",
+    "yomikata": "すいてい",
+    "imi": "추정, 추측"
+  },
+  {
+    "tango": "指定",
+    "yomikata": "してい",
+    "imi": "지정"
+  },
+  {
+    "tango": "重力",
+    "yomikata": "じゅうりょく",
+    "imi": "중력"
+  },
+  {
+    "tango": "いくぶん",
+    "yomikata": "",
+    "imi": "약간, 다소"
+  },
+  {
+    "tango": "要点",
+    "yomikata": "ようてん",
+    "imi": "요점"
+  },
+  {
+    "tango": "敬う",
+    "yomikata": "うやまう",
+    "imi": "공경하다"
+  },
+  {
+    "tango": "確保",
+    "yomikata": "かくほ",
+    "imi": "확보"
+  }
+]

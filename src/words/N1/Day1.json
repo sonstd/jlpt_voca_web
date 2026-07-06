@@ -1,0 +1,232 @@
+[
+  {
+    "tango": "至って",
+    "yomikata": "いたって",
+    "imi": "지극히, 매우, 대단히"
+  },
+  {
+    "tango": "心地よい",
+    "yomikata": "ここちよい",
+    "imi": "기분좋다, 상쾌하다"
+  },
+  {
+    "tango": "完璧な",
+    "yomikata": "かんぺきな",
+    "imi": "완벽한"
+  },
+  {
+    "tango": "傍ら",
+    "yomikata": "かたわら",
+    "imi": "옆, 곁"
+  },
+  {
+    "tango": "かばう",
+    "yomikata": "",
+    "imi": "감싸다, 편들다"
+  },
+  {
+    "tango": "そっけない",
+    "yomikata": "",
+    "imi": "무뚝뚝하다, 쌀쌀맞다, 퉁명스럽다"
+  },
+  {
+    "tango": "進呈",
+    "yomikata": "しんてい",
+    "imi": "증정, 드림"
+  },
+  {
+    "tango": "変革",
+    "yomikata": "へんかく",
+    "imi": "변혁"
+  },
+  {
+    "tango": "迫害",
+    "yomikata": "はくがい",
+    "imi": "박해"
+  },
+  {
+    "tango": "終始",
+    "yomikata": "しゅうし",
+    "imi": "시종, 계속"
+  },
+  {
+    "tango": "普遍",
+    "yomikata": "ふへん",
+    "imi": "보편"
+  },
+  {
+    "tango": "抜け出す",
+    "yomikata": "ぬけだす",
+    "imi": "살짝 빠져 나오다"
+  },
+  {
+    "tango": "紛争",
+    "yomikata": "ふんそう",
+    "imi": "분쟁"
+  },
+  {
+    "tango": "弁解",
+    "yomikata": "べんかい",
+    "imi": "변명"
+  },
+  {
+    "tango": "システム",
+    "yomikata": "",
+    "imi": "시스템, 체계"
+  },
+  {
+    "tango": "布巾",
+    "yomikata": "ふきん",
+    "imi": "행주"
+  },
+  {
+    "tango": "プライベート",
+    "yomikata": "",
+    "imi": "프라이빗, 개인적, 사적"
+  },
+  {
+    "tango": "購入",
+    "yomikata": "こうにゅう",
+    "imi": "구입"
+  },
+  {
+    "tango": "探知",
+    "yomikata": "たんち",
+    "imi": "탐지, 찾아 알아냄"
+  },
+  {
+    "tango": "籠もる",
+    "yomikata": "こもる",
+    "imi": "틀어박히다"
+  },
+  {
+    "tango": "燃料",
+    "yomikata": "ねんりょう",
+    "imi": "연료"
+  },
+  {
+    "tango": "啓蒙",
+    "yomikata": "けいもう",
+    "imi": "계몽"
+  },
+  {
+    "tango": "背後",
+    "yomikata": "はいご",
+    "imi": "배후"
+  },
+  {
+    "tango": "真相",
+    "yomikata": "しんそう",
+    "imi": "진상"
+  },
+  {
+    "tango": "形勢",
+    "yomikata": "けいせい",
+    "imi": "형세"
+  },
+  {
+    "tango": "メカニズム",
+    "yomikata": "",
+    "imi": "메커니즘"
+  },
+  {
+    "tango": "横綱",
+    "yomikata": "よこづな",
+    "imi": "스모(일본씨름)의 최고 지위"
+  },
+  {
+    "tango": "構える",
+    "yomikata": "かまえる",
+    "imi": "갖추다, 마련하다"
+  },
+  {
+    "tango": "前提",
+    "yomikata": "ぜんてい",
+    "imi": "전제"
+  },
+  {
+    "tango": "白状",
+    "yomikata": "はくじょう",
+    "imi": "자백, 진술"
+  },
+  {
+    "tango": "概要",
+    "yomikata": "がいよう",
+    "imi": "개요"
+  },
+  {
+    "tango": "コントロール",
+    "yomikata": "",
+    "imi": "컨트롤, 조절, 관리"
+  },
+  {
+    "tango": "危ぶむ",
+    "yomikata": "あやぶむ",
+    "imi": "의심하다, 걱정하다"
+  },
+  {
+    "tango": "品質",
+    "yomikata": "ひんしつ",
+    "imi": "품질"
+  },
+  {
+    "tango": "心無い",
+    "yomikata": "こころない",
+    "imi": "분별이 없다, 생각이 모자라다"
+  },
+  {
+    "tango": "精巧な",
+    "yomikata": "せいこうな",
+    "imi": "정교한"
+  },
+  {
+    "tango": "キャッチ",
+    "yomikata": "",
+    "imi": "캐치, 포착"
+  },
+  {
+    "tango": "示唆",
+    "yomikata": "しさ",
+    "imi": "시사, 암시, 귀띔"
+  },
+  {
+    "tango": "任命",
+    "yomikata": "にんめい",
+    "imi": "임명"
+  },
+  {
+    "tango": "極める",
+    "yomikata": "きわめる",
+    "imi": "끝까지 이루다, 극에 달하다"
+  },
+  {
+    "tango": "うろたえる",
+    "yomikata": "",
+    "imi": "당황하다, 허둥대다"
+  },
+  {
+    "tango": "どうやら",
+    "yomikata": "",
+    "imi": "아무래도, 어쩐지"
+  },
+  {
+    "tango": "略奪",
+    "yomikata": "りゃくだつ",
+    "imi": "약탈, 강탈"
+  },
+  {
+    "tango": "交渉",
+    "yomikata": "こうしょう",
+    "imi": "교섭"
+  },
+  {
+    "tango": "乗っ取る",
+    "yomikata": "のっとる",
+    "imi": "빼앗다, 납치하다"
+  },
+  {
+    "tango": "本音",
+    "yomikata": "ほんね",
+    "imi": "본심"
+  }
+]

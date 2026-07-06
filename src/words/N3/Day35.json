@@ -1,0 +1,187 @@
+[
+  {
+    "tango": "進学",
+    "yomikata": "しんがく",
+    "imi": "진학"
+  },
+  {
+    "tango": "無休",
+    "yomikata": "むきゅう",
+    "imi": "무휴"
+  },
+  {
+    "tango": "意外に",
+    "yomikata": "いがい",
+    "imi": "의외로, 뜻밖에, 예상외로"
+  },
+  {
+    "tango": "次々",
+    "yomikata": "つぎつぎ",
+    "imi": "차례차례로, 잇달아"
+  },
+  {
+    "tango": "データ",
+    "yomikata": "",
+    "imi": "데이터"
+  },
+  {
+    "tango": "自習",
+    "yomikata": "じしゅう",
+    "imi": "자습"
+  },
+  {
+    "tango": "取れる",
+    "yomikata": "とれる",
+    "imi": "잡히다, (붙어 있던 것이)떨어지다"
+  },
+  {
+    "tango": "部下",
+    "yomikata": "ぶか",
+    "imi": "부하"
+  },
+  {
+    "tango": "ショップ",
+    "yomikata": "",
+    "imi": "숍, 가게"
+  },
+  {
+    "tango": "履歴書",
+    "yomikata": "りれきしょ",
+    "imi": "이력서"
+  },
+  {
+    "tango": "真っ青な",
+    "yomikata": "まっさおな",
+    "imi": "새파란"
+  },
+  {
+    "tango": "間隔",
+    "yomikata": "かんかく",
+    "imi": "간격"
+  },
+  {
+    "tango": "半日",
+    "yomikata": "はんにち",
+    "imi": "반나절"
+  },
+  {
+    "tango": "成功",
+    "yomikata": "せいこう",
+    "imi": "성공"
+  },
+  {
+    "tango": "青少年",
+    "yomikata": "せいしょうねん",
+    "imi": "청소년"
+  },
+  {
+    "tango": "限界",
+    "yomikata": "げんかい",
+    "imi": "한계"
+  },
+  {
+    "tango": "失恋",
+    "yomikata": "しつれん",
+    "imi": "실연"
+  },
+  {
+    "tango": "採点",
+    "yomikata": "さいてん",
+    "imi": "채점"
+  },
+  {
+    "tango": "話し中",
+    "yomikata": "はなしちゅう",
+    "imi": "말씀 중, 통화 중"
+  },
+  {
+    "tango": "年賀状",
+    "yomikata": "ねんがじょう",
+    "imi": "연하장"
+  },
+  {
+    "tango": "あくび",
+    "yomikata": "",
+    "imi": "하품"
+  },
+  {
+    "tango": "ウイルス",
+    "yomikata": "",
+    "imi": "바이러스"
+  },
+  {
+    "tango": "きつい",
+    "yomikata": "",
+    "imi": "꼭 끼다, 힘들다"
+  },
+  {
+    "tango": "海苔",
+    "yomikata": "のり",
+    "imi": "김(해초)"
+  },
+  {
+    "tango": "掛け算",
+    "yomikata": "かけざん",
+    "imi": "곱셈"
+  },
+  {
+    "tango": "時刻表",
+    "yomikata": "じこくひょう",
+    "imi": "시각표"
+  },
+  {
+    "tango": "面倒な",
+    "yomikata": "めんどうな",
+    "imi": "번거로운, 귀찮은"
+  },
+  {
+    "tango": "禁煙",
+    "yomikata": "きんえん",
+    "imi": "금연"
+  },
+  {
+    "tango": "職場",
+    "yomikata": "しょくば",
+    "imi": "직장"
+  },
+  {
+    "tango": "ベルト",
+    "yomikata": "",
+    "imi": "벨트"
+  },
+  {
+    "tango": "宴会",
+    "yomikata": "えんかい",
+    "imi": "연회"
+  },
+  {
+    "tango": "集中",
+    "yomikata": "しゅうちゅう",
+    "imi": "집중"
+  },
+  {
+    "tango": "知らせ",
+    "yomikata": "しらせ",
+    "imi": "통지, 안내, 소식"
+  },
+  {
+    "tango": "当たり前",
+    "yomikata": "あたりまえ",
+    "imi": "당연"
+  },
+  {
+    "tango": "患者",
+    "yomikata": "かんじゃ",
+    "imi": "환자"
+  },
+  {
+    "tango": "休業",
+    "yomikata": "きゅうぎょう",
+    "imi": "휴업"
+  },
+  {
+    "tango": "決まり",
+    "yomikata": "きまり",
+    "imi": "결정, 규칙"
+  }
+]

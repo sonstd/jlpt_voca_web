@@ -1,0 +1,227 @@
+[
+  {
+    "tango": "止す",
+    "yomikata": "よす",
+    "imi": "그만두다, 멈추다, 중지하다"
+  },
+  {
+    "tango": "記憶",
+    "yomikata": "きおく",
+    "imi": "기억"
+  },
+  {
+    "tango": "至急",
+    "yomikata": "しきゅう",
+    "imi": "시급히, 서둘러"
+  },
+  {
+    "tango": "まさに",
+    "yomikata": "",
+    "imi": "확실하게, 정말로"
+  },
+  {
+    "tango": "膨らむ",
+    "yomikata": "ふくらむ",
+    "imi": "부풀다, 부풀어 오르다, 팽창하다"
+  },
+  {
+    "tango": "電力",
+    "yomikata": "でんりょく",
+    "imi": "전력"
+  },
+  {
+    "tango": "左右",
+    "yomikata": "さゆう",
+    "imi": "좌우"
+  },
+  {
+    "tango": "快適な",
+    "yomikata": "かいてきな",
+    "imi": "쾌적한"
+  },
+  {
+    "tango": "比較",
+    "yomikata": "ひかく",
+    "imi": "비교"
+  },
+  {
+    "tango": "逆らう",
+    "yomikata": "さからう",
+    "imi": "거역하다, 거스르다"
+  },
+  {
+    "tango": "謙遜",
+    "yomikata": "けんそん",
+    "imi": "겸손"
+  },
+  {
+    "tango": "少数",
+    "yomikata": "しょうすう",
+    "imi": "소수(적은 숫자)"
+  },
+  {
+    "tango": "過剰",
+    "yomikata": "かじょう",
+    "imi": "과잉"
+  },
+  {
+    "tango": "追加",
+    "yomikata": "ついか",
+    "imi": "추가"
+  },
+  {
+    "tango": "全力",
+    "yomikata": "ぜんりょく",
+    "imi": "전력"
+  },
+  {
+    "tango": "うらやむ",
+    "yomikata": "",
+    "imi": "부러워하다"
+  },
+  {
+    "tango": "調理",
+    "yomikata": "ちょうり",
+    "imi": "조리"
+  },
+  {
+    "tango": "機嫌",
+    "yomikata": "きげん",
+    "imi": "기분, 심기"
+  },
+  {
+    "tango": "コック",
+    "yomikata": "",
+    "imi": "요리사"
+  },
+  {
+    "tango": "桁",
+    "yomikata": "けた",
+    "imi": "자릿수, 자리"
+  },
+  {
+    "tango": "文明",
+    "yomikata": "ぶんめい",
+    "imi": "문명"
+  },
+  {
+    "tango": "つながる",
+    "yomikata": "",
+    "imi": "연결되다, 이어지다"
+  },
+  {
+    "tango": "半そで",
+    "yomikata": "はんそで",
+    "imi": "반 소매"
+  },
+  {
+    "tango": "合理的な",
+    "yomikata": "ごうりてきな",
+    "imi": "합리적인"
+  },
+  {
+    "tango": "まく",
+    "yomikata": "",
+    "imi": "뿌리다, 살포하다"
+  },
+  {
+    "tango": "傑作",
+    "yomikata": "けっさく",
+    "imi": "걸작"
+  },
+  {
+    "tango": "複写",
+    "yomikata": "ふくしゃ",
+    "imi": "복사"
+  },
+  {
+    "tango": "尖る",
+    "yomikata": "とがる",
+    "imi": "뾰족하다"
+  },
+  {
+    "tango": "公式",
+    "yomikata": "こうしき",
+    "imi": "공식"
+  },
+  {
+    "tango": "悪~ (접두어)",
+    "yomikata": "あく~",
+    "imi": "악(나쁜)~"
+  },
+  {
+    "tango": "姪",
+    "yomikata": "めい",
+    "imi": "조카딸"
+  },
+  {
+    "tango": "バイオリン",
+    "yomikata": "",
+    "imi": "바이올린"
+  },
+  {
+    "tango": "学会",
+    "yomikata": "がっかい",
+    "imi": "학회"
+  },
+  {
+    "tango": "下車",
+    "yomikata": "げしゃ",
+    "imi": "하차, 차에서 내림"
+  },
+  {
+    "tango": "ついでに",
+    "yomikata": "",
+    "imi": "하는 김에"
+  },
+  {
+    "tango": "一定",
+    "yomikata": "いってい",
+    "imi": "일정"
+  },
+  {
+    "tango": "めでたい",
+    "yomikata": "",
+    "imi": "경사스럽다, 기쁘다, 축하할 만하다"
+  },
+  {
+    "tango": "野生",
+    "yomikata": "やせい",
+    "imi": "야생"
+  },
+  {
+    "tango": "骨折",
+    "yomikata": "こっせつ",
+    "imi": "골절"
+  },
+  {
+    "tango": "解散",
+    "yomikata": "かいさん",
+    "imi": "해산"
+  },
+  {
+    "tango": "集金",
+    "yomikata": "しゅうきん",
+    "imi": "수금"
+  },
+  {
+    "tango": "未満",
+    "yomikata": "みまん",
+    "imi": "미만"
+  },
+  {
+    "tango": "定休日",
+    "yomikata": "ていきゅうび",
+    "imi": "정기휴일"
+  },
+  {
+    "tango": "不慣れな",
+    "yomikata": "ふなれな",
+    "imi": "익숙하지 않은, 낯설은, 서투른"
+  },
+  {
+    "tango": "小型",
+    "yomikata": "こがた",
+    "imi": "소형"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "tango": "図形",
+    "yomikata": "ずけい",
+    "imi": "도형"
+  },
+  {
+    "tango": "欠陥",
+    "yomikata": "けっかん",
+    "imi": "결함"
+  },
+  {
+    "tango": "権利",
+    "yomikata": "けんり",
+    "imi": "권리"
+  },
+  {
+    "tango": "現場",
+    "yomikata": "げんば",
+    "imi": "현장"
+  },
+  {
+    "tango": "コレクション",
+    "yomikata": "",
+    "imi": "컬렉션, 수집"
+  },
+  {
+    "tango": "眺め",
+    "yomikata": "ながめ",
+    "imi": "전망, 조망, 경치"
+  },
+  {
+    "tango": "やがて",
+    "yomikata": "",
+    "imi": "이윽고, 머지않아"
+  },
+  {
+    "tango": "セメント",
+    "yomikata": "",
+    "imi": "시멘트"
+  },
+  {
+    "tango": "ダブる",
+    "yomikata": "だぶる",
+    "imi": "겹치다. 중복되다"
+  },
+  {
+    "tango": "甚だしい",
+    "yomikata": "はなはだしい",
+    "imi": "심하다, 지나치다"
+  },
+  {
+    "tango": "ひっくり返す",
+    "yomikata": "ひっくりかえす",
+    "imi": "뒤집다, 뒤엎다"
+  },
+  {
+    "tango": "敷地",
+    "yomikata": "しきち",
+    "imi": "(건축)부지, 터"
+  },
+  {
+    "tango": "なお",
+    "yomikata": "",
+    "imi": "여전히, 아직, 더욱, 한층"
+  },
+  {
+    "tango": "求める",
+    "yomikata": "もとめる",
+    "imi": "요구하다, 구하다, 바라다"
+  },
+  {
+    "tango": "方角",
+    "yomikata": "ほうがく",
+    "imi": "방향, 방위"
+  },
+  {
+    "tango": "見本",
+    "yomikata": "みほん",
+    "imi": "견본, 본보기"
+  },
+  {
+    "tango": "~街 (접미어)",
+    "yomikata": "~がい",
+    "imi": "~가(거리)"
+  },
+  {
+    "tango": "芸能人",
+    "yomikata": "げいのうじん",
+    "imi": "연예인"
+  },
+  {
+    "tango": "務める",
+    "yomikata": "つとめる",
+    "imi": "임무, 역할을 맡다"
+  },
+  {
+    "tango": "議論",
+    "yomikata": "ぎろん",
+    "imi": "의논, 논의"
+  },
+  {
+    "tango": "危うい",
+    "yomikata": "あやうい",
+    "imi": "위험하다"
+  },
+  {
+    "tango": "実感",
+    "yomikata": "じっかん",
+    "imi": "실감"
+  },
+  {
+    "tango": "筆者",
+    "yomikata": "ひっしゃ",
+    "imi": "필자"
+  },
+  {
+    "tango": "大戦",
+    "yomikata": "たいせん",
+    "imi": "대전, 큰 전쟁"
+  },
+  {
+    "tango": "下降",
+    "yomikata": "かこう",
+    "imi": "하강"
+  },
+  {
+    "tango": "父母",
+    "yomikata": "ふぼ",
+    "imi": "부모"
+  },
+  {
+    "tango": "子孫",
+    "yomikata": "しそん",
+    "imi": "자손"
+  },
+  {
+    "tango": "目指す",
+    "yomikata": "めざす",
+    "imi": "목표로 하다, 노리다"
+  },
+  {
+    "tango": "及ぼす",
+    "yomikata": "およぼす",
+    "imi": "미치게 하다, 파급시키다"
+  },
+  {
+    "tango": "年齢",
+    "yomikata": "ねんれい",
+    "imi": "연령"
+  },
+  {
+    "tango": "日光",
+    "yomikata": "にっこう",
+    "imi": "일광, 햇빛"
+  },
+  {
+    "tango": "ジョギング",
+    "yomikata": "",
+    "imi": "조깅"
+  },
+  {
+    "tango": "慰める",
+    "yomikata": "なぐさめる",
+    "imi": "위로하다"
+  },
+  {
+    "tango": "空梅雨",
+    "yomikata": "からつゆ",
+    "imi": "마른장마, 장마철에 비가 오지 않음"
+  },
+  {
+    "tango": "めったに",
+    "yomikata": "",
+    "imi": "좀처럼"
+  },
+  {
+    "tango": "屋根",
+    "yomikata": "やね",
+    "imi": "지붕"
+  },
+  {
+    "tango": "レクリエーション",
+    "yomikata": "",
+    "imi": "레크리에이션, 오락"
+  },
+  {
+    "tango": "不潔な",
+    "yomikata": "ふけつな",
+    "imi": "불결한, 더러운"
+  },
+  {
+    "tango": "光景",
+    "yomikata": "こうけい",
+    "imi": "광경"
+  },
+  {
+    "tango": "作法",
+    "yomikata": "さほう",
+    "imi": "예의범절, 규범"
+  },
+  {
+    "tango": "持参",
+    "yomikata": "じさん",
+    "imi": "지참, 지니고 옴"
+  },
+  {
+    "tango": "観客",
+    "yomikata": "かんきゃく",
+    "imi": "관객"
+  },
+  {
+    "tango": "有利な",
+    "yomikata": "ゆうりな",
+    "imi": "유리한"
+  },
+  {
+    "tango": "誤り",
+    "yomikata": "あやまり",
+    "imi": "잘못, 실수"
+  },
+  {
+    "tango": "大陸",
+    "yomikata": "たいりく",
+    "imi": "대륙"
+  }
+]

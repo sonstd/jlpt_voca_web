@@ -1,0 +1,222 @@
+[
+  {
+    "tango": "検査",
+    "yomikata": "けんさ",
+    "imi": "검사"
+  },
+  {
+    "tango": "期限",
+    "yomikata": "きげん",
+    "imi": "기한"
+  },
+  {
+    "tango": "母親",
+    "yomikata": "ははおや",
+    "imi": "모친, 어머니"
+  },
+  {
+    "tango": "行き先",
+    "yomikata": "ゆきさき, いきさき",
+    "imi": "행선지, 목적지"
+  },
+  {
+    "tango": "言語",
+    "yomikata": "げんご",
+    "imi": "언어"
+  },
+  {
+    "tango": "調子",
+    "yomikata": "ちょうし",
+    "imi": "컨디션, 상태"
+  },
+  {
+    "tango": "一人娘",
+    "yomikata": "ひとりむすめ",
+    "imi": "외동딸"
+  },
+  {
+    "tango": "上司",
+    "yomikata": "じょうし",
+    "imi": "상사"
+  },
+  {
+    "tango": "出血",
+    "yomikata": "しゅっけつ",
+    "imi": "출혈"
+  },
+  {
+    "tango": "欲張り",
+    "yomikata": "よくばり",
+    "imi": "욕심쟁이"
+  },
+  {
+    "tango": "用件",
+    "yomikata": "ようけん",
+    "imi": "용건"
+  },
+  {
+    "tango": "飛び出す",
+    "yomikata": "とびだす",
+    "imi": "뛰쳐나오다"
+  },
+  {
+    "tango": "味見",
+    "yomikata": "あじみ",
+    "imi": "맛보기"
+  },
+  {
+    "tango": "ボーナス",
+    "yomikata": "",
+    "imi": "보너스"
+  },
+  {
+    "tango": "下品な",
+    "yomikata": "げひんな",
+    "imi": "천박한, 품위 없는"
+  },
+  {
+    "tango": "アナウンス",
+    "yomikata": "",
+    "imi": "방송"
+  },
+  {
+    "tango": "地名",
+    "yomikata": "ちめい",
+    "imi": "지명"
+  },
+  {
+    "tango": "化粧",
+    "yomikata": "げしょう",
+    "imi": "화장(꾸미는)"
+  },
+  {
+    "tango": "空っぽ",
+    "yomikata": "からっぽ",
+    "imi": "속이 텅 빈 상태"
+  },
+  {
+    "tango": "騒音",
+    "yomikata": "そうおん",
+    "imi": "소음"
+  },
+  {
+    "tango": "系統",
+    "yomikata": "けいとう",
+    "imi": "계통"
+  },
+  {
+    "tango": "ざっと",
+    "yomikata": "",
+    "imi": "대충, 대략"
+  },
+  {
+    "tango": "ネズミ",
+    "yomikata": "",
+    "imi": "쥐"
+  },
+  {
+    "tango": "亡くす",
+    "yomikata": "なくす",
+    "imi": "잃다, 사별하다"
+  },
+  {
+    "tango": "紅葉",
+    "yomikata": "もみじ, こうよう",
+    "imi": "단풍"
+  },
+  {
+    "tango": "がらがらな",
+    "yomikata": "",
+    "imi": "텅텅 빈"
+  },
+  {
+    "tango": "体育",
+    "yomikata": "たいいく",
+    "imi": "체육"
+  },
+  {
+    "tango": "憧れる",
+    "yomikata": "あこがれる",
+    "imi": "동경하다"
+  },
+  {
+    "tango": "払い戻す",
+    "yomikata": "はらいもどす",
+    "imi": "환불하다, 되돌려주다"
+  },
+  {
+    "tango": "受け取る",
+    "yomikata": "うけとる",
+    "imi": "받다, 수취하다"
+  },
+  {
+    "tango": "落ち着く",
+    "yomikata": "おちつく",
+    "imi": "침착하다"
+  },
+  {
+    "tango": "昼寝",
+    "yomikata": "ひるね",
+    "imi": "낮잠"
+  },
+  {
+    "tango": "下水",
+    "yomikata": "げすい",
+    "imi": "하수, 하수도"
+  },
+  {
+    "tango": "相続",
+    "yomikata": "そうぞく",
+    "imi": "상속"
+  },
+  {
+    "tango": "やかましい",
+    "yomikata": "",
+    "imi": "시끄럽다, 떠들썩하다"
+  },
+  {
+    "tango": "信じる",
+    "yomikata": "しんじる",
+    "imi": "믿다"
+  },
+  {
+    "tango": "こっそり",
+    "yomikata": "",
+    "imi": "몰래, 살짝"
+  },
+  {
+    "tango": "畳む",
+    "yomikata": "たたむ",
+    "imi": "접다, 개다"
+  },
+  {
+    "tango": "混乱",
+    "yomikata": "こんらん",
+    "imi": "혼란"
+  },
+  {
+    "tango": "別れ",
+    "yomikata": "わかれ",
+    "imi": "이별"
+  },
+  {
+    "tango": "食器",
+    "yomikata": "しょっき",
+    "imi": "식기"
+  },
+  {
+    "tango": "お茶碗",
+    "yomikata": "おちゃわん",
+    "imi": "밥공기, 밥그릇"
+  },
+  {
+    "tango": "リーダー",
+    "yomikata": "",
+    "imi": "리더"
+  },
+  {
+    "tango": "生まれ",
+    "yomikata": "うまれ",
+    "imi": "탄생, 출생"
+  }
+]

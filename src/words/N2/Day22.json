@@ -1,0 +1,227 @@
+[
+  {
+    "tango": "不幸な",
+    "yomikata": "ふこうな",
+    "imi": "불행한"
+  },
+  {
+    "tango": "水分",
+    "yomikata": "すいぶん",
+    "imi": "수분, 물기"
+  },
+  {
+    "tango": "商社",
+    "yomikata": "しょうしゃ",
+    "imi": "상사, 무역상사"
+  },
+  {
+    "tango": "担ぐ",
+    "yomikata": "かつぐ",
+    "imi": "메다, 짊어지다"
+  },
+  {
+    "tango": "重大な",
+    "yomikata": "じゅうだいな",
+    "imi": "중대한"
+  },
+  {
+    "tango": "チーム",
+    "yomikata": "",
+    "imi": "팀"
+  },
+  {
+    "tango": "リハーサル",
+    "yomikata": "",
+    "imi": "리허설, 예행 연습"
+  },
+  {
+    "tango": "以来",
+    "yomikata": "いらい",
+    "imi": "이래"
+  },
+  {
+    "tango": "パターン",
+    "yomikata": "",
+    "imi": "패턴, 유형"
+  },
+  {
+    "tango": "酔っ払い",
+    "yomikata": "よっぱらい",
+    "imi": "술꾼, 술주정뱅이, 취객"
+  },
+  {
+    "tango": "温暖な",
+    "yomikata": "おんだんな",
+    "imi": "온난한"
+  },
+  {
+    "tango": "国旗",
+    "yomikata": "こっき",
+    "imi": "국기"
+  },
+  {
+    "tango": "順",
+    "yomikata": "じゅん",
+    "imi": "순, 순서"
+  },
+  {
+    "tango": "飢饉",
+    "yomikata": "ききん",
+    "imi": "기근, 모자람"
+  },
+  {
+    "tango": "満ちる",
+    "yomikata": "みちる",
+    "imi": "가득차다"
+  },
+  {
+    "tango": "一眠り",
+    "yomikata": "ひとねむり",
+    "imi": "한숨 잠, 잠깐 잠"
+  },
+  {
+    "tango": "雷",
+    "yomikata": "かみなり",
+    "imi": "천둥, 벼락"
+  },
+  {
+    "tango": "技師",
+    "yomikata": "ぎし",
+    "imi": "기사, 엔지니어"
+  },
+  {
+    "tango": "聞き返す",
+    "yomikata": "ききかえす",
+    "imi": "되묻다, 다시 듣다"
+  },
+  {
+    "tango": "専念",
+    "yomikata": "せんねん",
+    "imi": "전념"
+  },
+  {
+    "tango": "賞味期限",
+    "yomikata": "しょうみきげん",
+    "imi": "유통 기한"
+  },
+  {
+    "tango": "反~ (접두어)",
+    "yomikata": "はん~",
+    "imi": "반~"
+  },
+  {
+    "tango": "威張る",
+    "yomikata": "いばる",
+    "imi": "뽐내다, 으스대다"
+  },
+  {
+    "tango": "前者",
+    "yomikata": "ぜんしゃ",
+    "imi": "전자, 앞의 것"
+  },
+  {
+    "tango": "名字",
+    "yomikata": "みょうじ",
+    "imi": "성, 성씨"
+  },
+  {
+    "tango": "担任",
+    "yomikata": "たんにん",
+    "imi": "담임"
+  },
+  {
+    "tango": "徹夜",
+    "yomikata": "てつや",
+    "imi": "철야, 밤 새움"
+  },
+  {
+    "tango": "見慣れる",
+    "yomikata": "みなれる",
+    "imi": "보아서 익숙하다, 낯익다"
+  },
+  {
+    "tango": "間もなく",
+    "yomikata": "まもなく",
+    "imi": "머지않아, 곧"
+  },
+  {
+    "tango": "めっきり",
+    "yomikata": "",
+    "imi": "뚜렷이, 현저히, 부쩍"
+  },
+  {
+    "tango": "限る",
+    "yomikata": "かぎる",
+    "imi": "국한하다, 한정하다"
+  },
+  {
+    "tango": "大半",
+    "yomikata": "たいはん",
+    "imi": "태반, 대부분"
+  },
+  {
+    "tango": "皮肉",
+    "yomikata": "ひにく",
+    "imi": "비아냥, 비꼼"
+  },
+  {
+    "tango": "当たる",
+    "yomikata": "あたる",
+    "imi": "① 맞다. 부딪히다 ② 적중하다"
+  },
+  {
+    "tango": "我々",
+    "yomikata": "われわれ",
+    "imi": "우리들"
+  },
+  {
+    "tango": "慌ただしい",
+    "yomikata": "あわただしい",
+    "imi": "분주하다, 어수선하다"
+  },
+  {
+    "tango": "本日",
+    "yomikata": "ほんじつ",
+    "imi": "오늘"
+  },
+  {
+    "tango": "遠慮なく",
+    "yomikata": "えんりょなく",
+    "imi": "사양말고, 거리낌없이"
+  },
+  {
+    "tango": "胃",
+    "yomikata": "い",
+    "imi": "위(인체 기관)"
+  },
+  {
+    "tango": "蚊",
+    "yomikata": "か",
+    "imi": "모기"
+  },
+  {
+    "tango": "兵隊",
+    "yomikata": "へいたい",
+    "imi": "군대, 병사"
+  },
+  {
+    "tango": "脱線",
+    "yomikata": "だっせん",
+    "imi": "탈선"
+  },
+  {
+    "tango": "手入れ",
+    "yomikata": "ていれ",
+    "imi": "손질, 단속"
+  },
+  {
+    "tango": "へそ",
+    "yomikata": "",
+    "imi": "배꼽"
+  },
+  {
+    "tango": "養分",
+    "yomikata": "ようぶん",
+    "imi": "양분"
+  }
+]

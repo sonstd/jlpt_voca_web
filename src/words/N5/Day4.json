@@ -1,0 +1,227 @@
+[
+  {
+    "tango": "朝",
+    "yomikata": "あさ",
+    "imi": "아침"
+  },
+  {
+    "tango": "全部",
+    "yomikata": "ぜんぶ",
+    "imi": "전부"
+  },
+  {
+    "tango": "バス",
+    "yomikata": "",
+    "imi": "버스"
+  },
+  {
+    "tango": "軽い",
+    "yomikata": "かるい",
+    "imi": "가볍다"
+  },
+  {
+    "tango": "ギター",
+    "yomikata": "",
+    "imi": "기타"
+  },
+  {
+    "tango": "傘",
+    "yomikata": "かさ",
+    "imi": "우산"
+  },
+  {
+    "tango": "まだ",
+    "yomikata": "",
+    "imi": "아직, 더"
+  },
+  {
+    "tango": "背",
+    "yomikata": "せ",
+    "imi": "등(신체), 키, 신장"
+  },
+  {
+    "tango": "勉強",
+    "yomikata": "べんきょう",
+    "imi": "공부"
+  },
+  {
+    "tango": "食べる",
+    "yomikata": "たべる",
+    "imi": "먹다"
+  },
+  {
+    "tango": "物",
+    "yomikata": "もの",
+    "imi": "~것, 물건"
+  },
+  {
+    "tango": "学校",
+    "yomikata": "がっこう",
+    "imi": "학교"
+  },
+  {
+    "tango": "入る",
+    "yomikata": "はいる",
+    "imi": "들어가다, 들어오다"
+  },
+  {
+    "tango": "電気",
+    "yomikata": "でんき",
+    "imi": "전기"
+  },
+  {
+    "tango": "洋服",
+    "yomikata": "ようふく",
+    "imi": "양복"
+  },
+  {
+    "tango": "私",
+    "yomikata": "わたし, わたくし",
+    "imi": "나, 저"
+  },
+  {
+    "tango": "口",
+    "yomikata": "くち",
+    "imi": "입"
+  },
+  {
+    "tango": "広い",
+    "yomikata": "ひろい",
+    "imi": "넓다"
+  },
+  {
+    "tango": "書く",
+    "yomikata": "かく",
+    "imi": "(글 등을)쓰다"
+  },
+  {
+    "tango": "黒い",
+    "yomikata": "くろい",
+    "imi": "검다, 까맣다"
+  },
+  {
+    "tango": "二十日",
+    "yomikata": "はつか",
+    "imi": "20일"
+  },
+  {
+    "tango": "嫌な",
+    "yomikata": "いやな",
+    "imi": "싫은"
+  },
+  {
+    "tango": "起きる",
+    "yomikata": "おきる",
+    "imi": "일어나다"
+  },
+  {
+    "tango": "グラス",
+    "yomikata": "",
+    "imi": "유리잔"
+  },
+  {
+    "tango": "入(り)口",
+    "yomikata": "いりぐち",
+    "imi": "입구"
+  },
+  {
+    "tango": "一日 (날짜)",
+    "yomikata": "ついたち",
+    "imi": "1일 (날짜)"
+  },
+  {
+    "tango": "締める",
+    "yomikata": "しめる",
+    "imi": "(끈 등을)매다"
+  },
+  {
+    "tango": "使う",
+    "yomikata": "つかう",
+    "imi": "사용하다"
+  },
+  {
+    "tango": "電話",
+    "yomikata": "でんわ",
+    "imi": "전화"
+  },
+  {
+    "tango": "夏",
+    "yomikata": "なつ",
+    "imi": "여름"
+  },
+  {
+    "tango": "七日",
+    "yomikata": "なのか",
+    "imi": "7일"
+  },
+  {
+    "tango": "映画",
+    "yomikata": "えいが",
+    "imi": "영화"
+  },
+  {
+    "tango": "耳",
+    "yomikata": "みみ",
+    "imi": "귀"
+  },
+  {
+    "tango": "レストラン",
+    "yomikata": "",
+    "imi": "레스토랑"
+  },
+  {
+    "tango": "目",
+    "yomikata": "め",
+    "imi": "눈(신체)"
+  },
+  {
+    "tango": "図書館",
+    "yomikata": "としょかん",
+    "imi": "도서관"
+  },
+  {
+    "tango": "かばん",
+    "yomikata": "",
+    "imi": "가방"
+  },
+  {
+    "tango": "車",
+    "yomikata": "くるま",
+    "imi": "자동차"
+  },
+  {
+    "tango": "狭い",
+    "yomikata": "せまい",
+    "imi": "좁다"
+  },
+  {
+    "tango": "緑",
+    "yomikata": "みどり",
+    "imi": "초록"
+  },
+  {
+    "tango": "手",
+    "yomikata": "て",
+    "imi": "손"
+  },
+  {
+    "tango": "小さい",
+    "yomikata": "ちいさい",
+    "imi": "작다"
+  },
+  {
+    "tango": "話",
+    "yomikata": "はなし",
+    "imi": "이야기, 대화"
+  },
+  {
+    "tango": "開ける",
+    "yomikata": "あける, ひらける",
+    "imi": "열다, 열리다"
+  },
+  {
+    "tango": "テスト",
+    "yomikata": "",
+    "imi": "테스트, 시험"
+  }
+]

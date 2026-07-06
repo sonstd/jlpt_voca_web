@@ -1,0 +1,237 @@
+[
+  {
+    "tango": "示す",
+    "yomikata": "しめす",
+    "imi": "나타내다, 가리키다"
+  },
+  {
+    "tango": "野球",
+    "yomikata": "やきゅう",
+    "imi": "야구"
+  },
+  {
+    "tango": "夜明け",
+    "yomikata": "よあけ",
+    "imi": "새벽, 새벽녘"
+  },
+  {
+    "tango": "噂",
+    "yomikata": "うわさ",
+    "imi": "소문"
+  },
+  {
+    "tango": "扇風機",
+    "yomikata": "せんぷうき",
+    "imi": "선풍기"
+  },
+  {
+    "tango": "学者",
+    "yomikata": "がくしゃ",
+    "imi": "학자"
+  },
+  {
+    "tango": "仲直り",
+    "yomikata": "なかなおり",
+    "imi": "화해"
+  },
+  {
+    "tango": "わざと",
+    "yomikata": "",
+    "imi": "일부러"
+  },
+  {
+    "tango": "消防",
+    "yomikata": "しょうぼう",
+    "imi": "소방"
+  },
+  {
+    "tango": "眩しい",
+    "yomikata": "まぶしい",
+    "imi": "눈부시다"
+  },
+  {
+    "tango": "向く",
+    "yomikata": "むく",
+    "imi": "향하다, ~(를 향해)보다"
+  },
+  {
+    "tango": "過去",
+    "yomikata": "かこ",
+    "imi": "과거"
+  },
+  {
+    "tango": "幼児",
+    "yomikata": "ようじ",
+    "imi": "유아"
+  },
+  {
+    "tango": "拭く",
+    "yomikata": "ふく",
+    "imi": "닦다"
+  },
+  {
+    "tango": "完了",
+    "yomikata": "かんりょう",
+    "imi": "완료"
+  },
+  {
+    "tango": "特色",
+    "yomikata": "とくしょく",
+    "imi": "특색"
+  },
+  {
+    "tango": "悔しい",
+    "yomikata": "くやしい",
+    "imi": "분하다, 억울하다"
+  },
+  {
+    "tango": "伝言",
+    "yomikata": "でんごん",
+    "imi": "전언, 메시지"
+  },
+  {
+    "tango": "コンビニ",
+    "yomikata": "",
+    "imi": "편의점"
+  },
+  {
+    "tango": "都市",
+    "yomikata": "とし",
+    "imi": "도시"
+  },
+  {
+    "tango": "暖める",
+    "yomikata": "あたためる",
+    "imi": "따뜻하게 하다, 데우다"
+  },
+  {
+    "tango": "感動",
+    "yomikata": "かんどう",
+    "imi": "감동"
+  },
+  {
+    "tango": "下書き",
+    "yomikata": "したがき",
+    "imi": "초안"
+  },
+  {
+    "tango": "社説",
+    "yomikata": "しゃせつ",
+    "imi": "사설"
+  },
+  {
+    "tango": "通過",
+    "yomikata": "つうか",
+    "imi": "통과"
+  },
+  {
+    "tango": "手伝い",
+    "yomikata": "てつだい",
+    "imi": "도움"
+  },
+  {
+    "tango": "区別",
+    "yomikata": "くべつ",
+    "imi": "구별"
+  },
+  {
+    "tango": "パスポート",
+    "yomikata": "",
+    "imi": "여권"
+  },
+  {
+    "tango": "お手伝いさん",
+    "yomikata": "おてつだいさん",
+    "imi": "가사 도우미"
+  },
+  {
+    "tango": "加える",
+    "yomikata": "くわえる",
+    "imi": "더하다, 첨가하다, 추가하다"
+  },
+  {
+    "tango": "再利用",
+    "yomikata": "さいりよう",
+    "imi": "재이용"
+  },
+  {
+    "tango": "洗濯物",
+    "yomikata": "せんたくもの",
+    "imi": "세탁물"
+  },
+  {
+    "tango": "電話代",
+    "yomikata": "でんわだい",
+    "imi": "전화 요금"
+  },
+  {
+    "tango": "前半",
+    "yomikata": "ぜんはん",
+    "imi": "전반"
+  },
+  {
+    "tango": "別に",
+    "yomikata": "べつに",
+    "imi": "별로, 딱히(~ない와 호응되는 경우가 많음)"
+  },
+  {
+    "tango": "祝日",
+    "yomikata": "しゅくじつ",
+    "imi": "국경일, 공휴일"
+  },
+  {
+    "tango": "お先に",
+    "yomikata": "おさきに",
+    "imi": "먼저"
+  },
+  {
+    "tango": "奥",
+    "yomikata": "おく",
+    "imi": "안쪽, 속"
+  },
+  {
+    "tango": "祭日",
+    "yomikata": "さいじつ",
+    "imi": "제삿날, 축제일"
+  },
+  {
+    "tango": "小指",
+    "yomikata": "こゆび",
+    "imi": "새끼손가락"
+  },
+  {
+    "tango": "戦い",
+    "yomikata": "たたかい",
+    "imi": "싸움, 전쟁"
+  },
+  {
+    "tango": "名刺",
+    "yomikata": "めいし",
+    "imi": "명함"
+  },
+  {
+    "tango": "積む",
+    "yomikata": "つむ",
+    "imi": "쌓다, 모으다"
+  },
+  {
+    "tango": "追い越す",
+    "yomikata": "おいこす",
+    "imi": "추월하다"
+  },
+  {
+    "tango": "載る",
+    "yomikata": "のる",
+    "imi": "실리다, 게재되다"
+  },
+  {
+    "tango": "だけど",
+    "yomikata": "",
+    "imi": "그렇지만 <접속사>"
+  },
+  {
+    "tango": "適当な",
+    "yomikata": "てきとうな",
+    "imi": "적당한"
+  }
+]

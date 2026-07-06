@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server';
-import { getWords, parseDayParam, isValidLevel } from '@/lib/words';
+import { getWords, parseDayParam, isValidLevel, getTotalDays } from '@/lib/words';
 
 export async function GET(_request, { params }) {
   const { level, day } = await params;
@@ -10,6 +10,10 @@ export async function GET(_request, { params }) {
   const dayNum = parseDayParam(day);
   if (!dayNum) {
     return NextResponse.json({ error: 'Invalid day' }, { status: 400 });
+  }
+  const totalDays = await getTotalDays(level);
+  if (dayNum > totalDays) {
+    return NextResponse.json({ error: 'Not found' }, { status: 404 });
   }
   const words = await getWords(level, dayNum);
   if (!words) {

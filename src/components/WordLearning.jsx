@@ -20,11 +20,9 @@ export default function WordLearning({ level, levelLabel, day, totalDays, initia
   const { getCached, setInitial } = useWordsCache();
   const { shuffle } = useSettings();
 
-  // shuffle 값을 ref로 관리 → day 변경 effect에서 클로저 문제 없이 최신값 참조
   const shuffleRef = useRef(shuffle);
   useEffect(() => { shuffleRef.current = shuffle; }, [shuffle]);
 
-  // 현재 day의 원본(비섞인) 단어 목록
   const baseWordsRef = useRef(initialWords);
 
   const [displayWords, setDisplayWords] = useState(() =>
@@ -33,7 +31,6 @@ export default function WordLearning({ level, levelLabel, day, totalDays, initia
   const [index, setIndex] = useState(0);
   const [revealed, setRevealed] = useState(false);
 
-  // day가 바뀔 때: 캐시 등록 + 현재 shuffle 설정에 맞게 단어 목록 세팅
   useEffect(() => {
     setInitial(day, initialWords);
     const source = getCached(day) ?? initialWords;
@@ -43,7 +40,6 @@ export default function WordLearning({ level, levelLabel, day, totalDays, initia
     setRevealed(false);
   }, [day, initialWords, setInitial, getCached]);
 
-  // shuffle 설정이 바뀔 때: 같은 단어 목록을 재정렬 (인덱스 초기화)
   useEffect(() => {
     setDisplayWords(shuffle ? shuffleArray(baseWordsRef.current) : baseWordsRef.current);
     setIndex(0);
@@ -51,8 +47,6 @@ export default function WordLearning({ level, levelLabel, day, totalDays, initia
   }, [shuffle]);
 
   const current = displayWords[index];
-  const isFirstWord = index === 0;
-  const isLastWord = index === displayWords.length - 1;
 
   const goPrevWord = useCallback(() => {
     setRevealed(false);
@@ -87,11 +81,14 @@ export default function WordLearning({ level, levelLabel, day, totalDays, initia
       </header>
 
       <section className={styles.card}>
-        <p className={styles.eng}>{current.eng}</p>
+        {/* 항상 표시 */}
+        <p className={styles.tango}>{current.tango}</p>
 
+        {/* 뜻 확인 후 표시 */}
         {revealed && (
           <div className={styles.revealArea}>
-            <p className={styles.kor}>{current.kor}</p>
+            <p className={styles.yomikata}>{current.yomikata}</p>
+            <p className={styles.imi}>{current.imi}</p>
           </div>
         )}
 
@@ -101,10 +98,10 @@ export default function WordLearning({ level, levelLabel, day, totalDays, initia
       </section>
 
       <nav className={styles.wordNav}>
-        <button onClick={goPrevWord} disabled={isFirstWord} className={styles.navButton}>
+        <button onClick={goPrevWord} disabled={index === 0} className={styles.navButton}>
           ← 이전 단어
         </button>
-        <button onClick={goNextWord} disabled={isLastWord} className={styles.navButton}>
+        <button onClick={goNextWord} disabled={index === displayWords.length - 1} className={styles.navButton}>
           다음 단어 →
         </button>
       </nav>

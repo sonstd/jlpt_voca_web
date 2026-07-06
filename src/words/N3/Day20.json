@@ -1,0 +1,227 @@
+[
+  {
+    "tango": "見上げる",
+    "yomikata": "みあげる",
+    "imi": "올려보다"
+  },
+  {
+    "tango": "科目",
+    "yomikata": "かもく",
+    "imi": "과목"
+  },
+  {
+    "tango": "申込書",
+    "yomikata": "もうしこみしょ",
+    "imi": "신청서"
+  },
+  {
+    "tango": "クリック",
+    "yomikata": "",
+    "imi": "클릭"
+  },
+  {
+    "tango": "こうして",
+    "yomikata": "",
+    "imi": "이렇게 해서 <접속사>"
+  },
+  {
+    "tango": "癖",
+    "yomikata": "くせ",
+    "imi": "버릇"
+  },
+  {
+    "tango": "まさか",
+    "yomikata": "",
+    "imi": "설마"
+  },
+  {
+    "tango": "聞き直す",
+    "yomikata": "ききなおす",
+    "imi": "다시 물어보다"
+  },
+  {
+    "tango": "~年生",
+    "yomikata": "~ねんせい",
+    "imi": "~학년"
+  },
+  {
+    "tango": "パーセント",
+    "yomikata": "",
+    "imi": "퍼센트"
+  },
+  {
+    "tango": "憎い",
+    "yomikata": "にくい",
+    "imi": "밉다"
+  },
+  {
+    "tango": "支社",
+    "yomikata": "ししゃ",
+    "imi": "지사"
+  },
+  {
+    "tango": "断る",
+    "yomikata": "ことわる",
+    "imi": "거절하다"
+  },
+  {
+    "tango": "書店",
+    "yomikata": "しょてん",
+    "imi": "서점"
+  },
+  {
+    "tango": "中央",
+    "yomikata": "ちゅうおう",
+    "imi": "중앙"
+  },
+  {
+    "tango": "暖まる",
+    "yomikata": "あたたまる",
+    "imi": "따뜻해지다"
+  },
+  {
+    "tango": "健康",
+    "yomikata": "けんこう",
+    "imi": "건강"
+  },
+  {
+    "tango": "セール",
+    "yomikata": "",
+    "imi": "세일, 할인"
+  },
+  {
+    "tango": "緩い",
+    "yomikata": "ゆるい",
+    "imi": "느슨하다, 완만하다"
+  },
+  {
+    "tango": "会員",
+    "yomikata": "かいいん",
+    "imi": "회원"
+  },
+  {
+    "tango": "熱中",
+    "yomikata": "ねっちゅう",
+    "imi": "열중"
+  },
+  {
+    "tango": "座席",
+    "yomikata": "ざせき",
+    "imi": "좌석"
+  },
+  {
+    "tango": "斜め",
+    "yomikata": "ななめ",
+    "imi": "경사"
+  },
+  {
+    "tango": "解決",
+    "yomikata": "かいけつ",
+    "imi": "해결"
+  },
+  {
+    "tango": "騙す",
+    "yomikata": "だます",
+    "imi": "속이다"
+  },
+  {
+    "tango": "見出し",
+    "yomikata": "みだし",
+    "imi": "표제, 표제어"
+  },
+  {
+    "tango": "宝",
+    "yomikata": "たから",
+    "imi": "보물"
+  },
+  {
+    "tango": "インタビュー",
+    "yomikata": "",
+    "imi": "인터뷰"
+  },
+  {
+    "tango": "中心",
+    "yomikata": "ちゅうしん",
+    "imi": "중심"
+  },
+  {
+    "tango": "火災",
+    "yomikata": "かさい",
+    "imi": "화재"
+  },
+  {
+    "tango": "係り",
+    "yomikata": "かかり",
+    "imi": "담당, 담당자"
+  },
+  {
+    "tango": "事務",
+    "yomikata": "じむ",
+    "imi": "사무"
+  },
+  {
+    "tango": "宣伝",
+    "yomikata": "せんでん",
+    "imi": "선전"
+  },
+  {
+    "tango": "電車代",
+    "yomikata": "でんしゃだい",
+    "imi": "전철 요금"
+  },
+  {
+    "tango": "降ろす",
+    "yomikata": "おろす",
+    "imi": "내리다"
+  },
+  {
+    "tango": "向き",
+    "yomikata": "むき",
+    "imi": "방향, 방면"
+  },
+  {
+    "tango": "絶対に",
+    "yomikata": "ぜったいに",
+    "imi": "절대로, 꼭"
+  },
+  {
+    "tango": "早寝早起き",
+    "yomikata": "はやねはやおき",
+    "imi": "일찍 자고 일찍 일어남"
+  },
+  {
+    "tango": "散る",
+    "yomikata": "ちる",
+    "imi": "(꽃이)지다, 흩어지다"
+  },
+  {
+    "tango": "怪しい",
+    "yomikata": "あやしい",
+    "imi": "수상하다"
+  },
+  {
+    "tango": "専攻",
+    "yomikata": "せんこう",
+    "imi": "전공"
+  },
+  {
+    "tango": "最高",
+    "yomikata": "さいこう",
+    "imi": "최고"
+  },
+  {
+    "tango": "混ざる",
+    "yomikata": "まざる",
+    "imi": "섞이다"
+  },
+  {
+    "tango": "整理",
+    "yomikata": "せいり",
+    "imi": "정리"
+  },
+  {
+    "tango": "息子",
+    "yomikata": "むすこ",
+    "imi": "아들"
+  }
+]

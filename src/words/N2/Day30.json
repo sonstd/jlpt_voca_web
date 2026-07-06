@@ -1,0 +1,227 @@
+[
+  {
+    "tango": "開会",
+    "yomikata": "かいかい",
+    "imi": "개회"
+  },
+  {
+    "tango": "絶対",
+    "yomikata": "ぜったい",
+    "imi": "절대"
+  },
+  {
+    "tango": "規則正しい",
+    "yomikata": "きそくただしい",
+    "imi": "규칙적이다"
+  },
+  {
+    "tango": "そのうち",
+    "yomikata": "",
+    "imi": "곧, 머지않아"
+  },
+  {
+    "tango": "最大",
+    "yomikata": "さいだい",
+    "imi": "최대"
+  },
+  {
+    "tango": "通す",
+    "yomikata": "とおす",
+    "imi": "통과시키다"
+  },
+  {
+    "tango": "機関",
+    "yomikata": "きかん",
+    "imi": "기관"
+  },
+  {
+    "tango": "札",
+    "yomikata": "さつ",
+    "imi": "지폐"
+  },
+  {
+    "tango": "解く",
+    "yomikata": "とく",
+    "imi": "풀다"
+  },
+  {
+    "tango": "同格",
+    "yomikata": "どうかく",
+    "imi": "동격, 같은 자격"
+  },
+  {
+    "tango": "無責任",
+    "yomikata": "むせきにん",
+    "imi": "무책임"
+  },
+  {
+    "tango": "徹底",
+    "yomikata": "てってい",
+    "imi": "철저"
+  },
+  {
+    "tango": "傷む",
+    "yomikata": "いたむ",
+    "imi": "상하다, 부패하다"
+  },
+  {
+    "tango": "海沿い",
+    "yomikata": "うみぞい",
+    "imi": "해안, 바닷가"
+  },
+  {
+    "tango": "引き止める",
+    "yomikata": "ひきとめる",
+    "imi": "만류하다, 제지하다, 말리다"
+  },
+  {
+    "tango": "素人",
+    "yomikata": "しろうと",
+    "imi": "초보자, 풋내기"
+  },
+  {
+    "tango": "~風",
+    "yomikata": "~ふう",
+    "imi": "~풍, ~분위기"
+  },
+  {
+    "tango": "平等な",
+    "yomikata": "びょうどうな",
+    "imi": "평등한"
+  },
+  {
+    "tango": "可決",
+    "yomikata": "かけつ",
+    "imi": "가결"
+  },
+  {
+    "tango": "添付",
+    "yomikata": "てんぷ",
+    "imi": "첨부"
+  },
+  {
+    "tango": "地帯",
+    "yomikata": "ちたい",
+    "imi": "지대"
+  },
+  {
+    "tango": "返品",
+    "yomikata": "へんぴん",
+    "imi": "반품"
+  },
+  {
+    "tango": "攻擊",
+    "yomikata": "こうげき",
+    "imi": "공격"
+  },
+  {
+    "tango": "ラケット",
+    "yomikata": "",
+    "imi": "라켓"
+  },
+  {
+    "tango": "敗れる",
+    "yomikata": "やぶれる",
+    "imi": "지다, 패배하다"
+  },
+  {
+    "tango": "優秀な",
+    "yomikata": "ゆうしゅうな",
+    "imi": "우수한"
+  },
+  {
+    "tango": "放す",
+    "yomikata": "はなす",
+    "imi": "풀어놓다, 놓아주다"
+  },
+  {
+    "tango": "ふんわり",
+    "yomikata": "",
+    "imi": "폭신폭신"
+  },
+  {
+    "tango": "当番",
+    "yomikata": "とうばん",
+    "imi": "당번"
+  },
+  {
+    "tango": "長方形",
+    "yomikata": "ちょうほうけい",
+    "imi": "장방형, 직사각형"
+  },
+  {
+    "tango": "酸っぱい",
+    "yomikata": "すっぱい",
+    "imi": "시다, 시큼하다"
+  },
+  {
+    "tango": "コンクール",
+    "yomikata": "",
+    "imi": "경연대회, 콩쿠르"
+  },
+  {
+    "tango": "オリンピック",
+    "yomikata": "",
+    "imi": "올림픽"
+  },
+  {
+    "tango": "混合",
+    "yomikata": "こんごう",
+    "imi": "혼합"
+  },
+  {
+    "tango": "有無",
+    "yomikata": "うむ",
+    "imi": "유무"
+  },
+  {
+    "tango": "実習",
+    "yomikata": "じっしゅう",
+    "imi": "실습"
+  },
+  {
+    "tango": "近寄る",
+    "yomikata": "ちかよる",
+    "imi": "접근하다, 다가가다"
+  },
+  {
+    "tango": "苦難",
+    "yomikata": "くなん",
+    "imi": "고난"
+  },
+  {
+    "tango": "納豆",
+    "yomikata": "なっとう",
+    "imi": "낫토(콩 발효 식품)"
+  },
+  {
+    "tango": "建築",
+    "yomikata": "けんちく",
+    "imi": "건축"
+  },
+  {
+    "tango": "ライター",
+    "yomikata": "",
+    "imi": "라이터, 점화기"
+  },
+  {
+    "tango": "白髪",
+    "yomikata": "しらが",
+    "imi": "흰머리, 백발"
+  },
+  {
+    "tango": "キャプテン",
+    "yomikata": "",
+    "imi": "캡틴, 주장, 선장"
+  },
+  {
+    "tango": "盆地",
+    "yomikata": "ぼんち",
+    "imi": "분지"
+  },
+  {
+    "tango": "太鼓",
+    "yomikata": "たいこ",
+    "imi": "북"
+  }
+]

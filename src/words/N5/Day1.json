@@ -1,0 +1,237 @@
+[
+  {
+    "tango": "弾く",
+    "yomikata": "ひく",
+    "imi": "연주하다"
+  },
+  {
+    "tango": "テープ",
+    "yomikata": "",
+    "imi": "테이프"
+  },
+  {
+    "tango": "外",
+    "yomikata": "そと",
+    "imi": "바깥"
+  },
+  {
+    "tango": "今日",
+    "yomikata": "きょう",
+    "imi": "오늘"
+  },
+  {
+    "tango": "後",
+    "yomikata": "あと",
+    "imi": "뒤, 다음"
+  },
+  {
+    "tango": "大好きな",
+    "yomikata": "だいすきな",
+    "imi": "아주 좋아하는, 사랑하는"
+  },
+  {
+    "tango": "下",
+    "yomikata": "した",
+    "imi": "아래"
+  },
+  {
+    "tango": "寝る",
+    "yomikata": "ねる",
+    "imi": "자다"
+  },
+  {
+    "tango": "四日",
+    "yomikata": "よっか",
+    "imi": "4일"
+  },
+  {
+    "tango": "出掛ける",
+    "yomikata": "でかける",
+    "imi": "나가다, 외출하다"
+  },
+  {
+    "tango": "食堂",
+    "yomikata": "しょくどう",
+    "imi": "식당"
+  },
+  {
+    "tango": "三",
+    "yomikata": "さん",
+    "imi": "3"
+  },
+  {
+    "tango": "作る",
+    "yomikata": "つくる",
+    "imi": "만들다"
+  },
+  {
+    "tango": "なぜ",
+    "yomikata": "",
+    "imi": "어째서, 왜"
+  },
+  {
+    "tango": "コート",
+    "yomikata": "",
+    "imi": "코트"
+  },
+  {
+    "tango": "低い",
+    "yomikata": "ひくい",
+    "imi": "낮다"
+  },
+  {
+    "tango": "道",
+    "yomikata": "みち",
+    "imi": "길"
+  },
+  {
+    "tango": "ちょっと",
+    "yomikata": "",
+    "imi": "조금, 잠깐"
+  },
+  {
+    "tango": "八日",
+    "yomikata": "ようか",
+    "imi": "8일"
+  },
+  {
+    "tango": "猫",
+    "yomikata": "ねこ",
+    "imi": "고양이"
+  },
+  {
+    "tango": "時間",
+    "yomikata": "じかん",
+    "imi": "시간"
+  },
+  {
+    "tango": "買い物",
+    "yomikata": "かいもの",
+    "imi": "쇼핑, 장보기"
+  },
+  {
+    "tango": "二日",
+    "yomikata": "ふつか",
+    "imi": "2일"
+  },
+  {
+    "tango": "美味しい",
+    "yomikata": "おいしい",
+    "imi": "맛있다"
+  },
+  {
+    "tango": "困る",
+    "yomikata": "こまる",
+    "imi": "곤란하다, 어려움을 겪다"
+  },
+  {
+    "tango": "今年",
+    "yomikata": "ことし",
+    "imi": "올해, 금년"
+  },
+  {
+    "tango": "生まれる",
+    "yomikata": "うまれる",
+    "imi": "태어나다"
+  },
+  {
+    "tango": "名前",
+    "yomikata": "なまえ",
+    "imi": "이름"
+  },
+  {
+    "tango": "天気",
+    "yomikata": "てんき",
+    "imi": "날씨"
+  },
+  {
+    "tango": "先週",
+    "yomikata": "せんしゅう",
+    "imi": "지난주"
+  },
+  {
+    "tango": "あそこ",
+    "yomikata": "",
+    "imi": "저기, 저곳"
+  },
+  {
+    "tango": "デパート",
+    "yomikata": "",
+    "imi": "백화점"
+  },
+  {
+    "tango": "地図",
+    "yomikata": "ちず",
+    "imi": "지도"
+  },
+  {
+    "tango": "待つ",
+    "yomikata": "まつ",
+    "imi": "기다리다"
+  },
+  {
+    "tango": "鉛筆",
+    "yomikata": "えんぴつ",
+    "imi": "연필"
+  },
+  {
+    "tango": "姉",
+    "yomikata": "あね",
+    "imi": "누나, 언니"
+  },
+  {
+    "tango": "長い",
+    "yomikata": "ながい",
+    "imi": "길다"
+  },
+  {
+    "tango": "医師",
+    "yomikata": "いし",
+    "imi": "의사"
+  },
+  {
+    "tango": "詰まらない",
+    "yomikata": "つまらない",
+    "imi": "재미없다, 시시하다"
+  },
+  {
+    "tango": "タクシー",
+    "yomikata": "",
+    "imi": "택시"
+  },
+  {
+    "tango": "庭",
+    "yomikata": "にわ",
+    "imi": "정원, 뜰"
+  },
+  {
+    "tango": "来年",
+    "yomikata": "らいねん",
+    "imi": "내년"
+  },
+  {
+    "tango": "南",
+    "yomikata": "みなみ",
+    "imi": "남쪽"
+  },
+  {
+    "tango": "先生",
+    "yomikata": "せんせい",
+    "imi": "선생님"
+  },
+  {
+    "tango": "あんな",
+    "yomikata": "",
+    "imi": "저런"
+  },
+  {
+    "tango": "そんな",
+    "yomikata": "",
+    "imi": "그런"
+  },
+  {
+    "tango": "ゼロ",
+    "yomikata": "",
+    "imi": "제로, 0"
+  }
+]

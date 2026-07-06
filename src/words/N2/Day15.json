@@ -1,0 +1,227 @@
+[
+  {
+    "tango": "看板",
+    "yomikata": "かんばん",
+    "imi": "간판"
+  },
+  {
+    "tango": "ぐずぐず",
+    "yomikata": "",
+    "imi": "우물쭈물, 꾸물거림"
+  },
+  {
+    "tango": "形式",
+    "yomikata": "けいしき",
+    "imi": "형식"
+  },
+  {
+    "tango": "譲る",
+    "yomikata": "ゆずる",
+    "imi": "양보하다"
+  },
+  {
+    "tango": "何とか",
+    "yomikata": "なんとか",
+    "imi": "어떻게든"
+  },
+  {
+    "tango": "しわ",
+    "yomikata": "",
+    "imi": "주름"
+  },
+  {
+    "tango": "落選",
+    "yomikata": "らくせん",
+    "imi": "낙선"
+  },
+  {
+    "tango": "議員",
+    "yomikata": "ぎいん",
+    "imi": "의원"
+  },
+  {
+    "tango": "水平",
+    "yomikata": "すいへい",
+    "imi": "수평"
+  },
+  {
+    "tango": "お気に入り",
+    "yomikata": "おきにいり",
+    "imi": "마음에 듦"
+  },
+  {
+    "tango": "免疫",
+    "yomikata": "めんえき",
+    "imi": "면역, 익숙함"
+  },
+  {
+    "tango": "物騒な",
+    "yomikata": "ぶっそうな",
+    "imi": "뒤숭숭한, 어수선한"
+  },
+  {
+    "tango": "用心",
+    "yomikata": "ようじん",
+    "imi": "조심, 주의"
+  },
+  {
+    "tango": "著書",
+    "yomikata": "ちょしょ",
+    "imi": "저서"
+  },
+  {
+    "tango": "図書",
+    "yomikata": "としょ",
+    "imi": "도서"
+  },
+  {
+    "tango": "噴火",
+    "yomikata": "ふんか",
+    "imi": "분화"
+  },
+  {
+    "tango": "一睡",
+    "yomikata": "いっすい",
+    "imi": "한잠, 짧은 잠"
+  },
+  {
+    "tango": "衝突",
+    "yomikata": "しょうとつ",
+    "imi": "충돌"
+  },
+  {
+    "tango": "増す",
+    "yomikata": "ます",
+    "imi": "늘어나다, 많아지다"
+  },
+  {
+    "tango": "ホームステイ",
+    "yomikata": "",
+    "imi": "홈스테이"
+  },
+  {
+    "tango": "差異",
+    "yomikata": "さい",
+    "imi": "차이"
+  },
+  {
+    "tango": "一致",
+    "yomikata": "いっち",
+    "imi": "일치"
+  },
+  {
+    "tango": "差別",
+    "yomikata": "さべつ",
+    "imi": "차별"
+  },
+  {
+    "tango": "何で",
+    "yomikata": "なんで",
+    "imi": "왜, 어째서"
+  },
+  {
+    "tango": "着替える",
+    "yomikata": "きがえる",
+    "imi": "갈아입다"
+  },
+  {
+    "tango": "農家",
+    "yomikata": "のうか",
+    "imi": "농가"
+  },
+  {
+    "tango": "消火",
+    "yomikata": "しょうか",
+    "imi": "소화"
+  },
+  {
+    "tango": "真っ先",
+    "yomikata": "まっさき",
+    "imi": "맨 앞, 최초"
+  },
+  {
+    "tango": "長引く",
+    "yomikata": "ながびく",
+    "imi": "오래 걸리다, 길어지다"
+  },
+  {
+    "tango": "済ます",
+    "yomikata": "すます",
+    "imi": "끝내다, 마치다"
+  },
+  {
+    "tango": "模範",
+    "yomikata": "もはん",
+    "imi": "모범"
+  },
+  {
+    "tango": "奨学金",
+    "yomikata": "しょうがくきん",
+    "imi": "장학금"
+  },
+  {
+    "tango": "破片",
+    "yomikata": "はへん",
+    "imi": "파편"
+  },
+  {
+    "tango": "湿っぽい",
+    "yomikata": "しめっぽい",
+    "imi": "눅눅하다, 축축하다"
+  },
+  {
+    "tango": "浮かぶ",
+    "yomikata": "うかぶ",
+    "imi": "뜨다, 떠오르다"
+  },
+  {
+    "tango": "高速",
+    "yomikata": "こうそく",
+    "imi": "고속"
+  },
+  {
+    "tango": "貴重な",
+    "yomikata": "きちょうな",
+    "imi": "귀중한"
+  },
+  {
+    "tango": "体制",
+    "yomikata": "たいせい",
+    "imi": "체제"
+  },
+  {
+    "tango": "穀物",
+    "yomikata": "こくもつ",
+    "imi": "곡물"
+  },
+  {
+    "tango": "大型",
+    "yomikata": "おおがた",
+    "imi": "대형"
+  },
+  {
+    "tango": "外交",
+    "yomikata": "がいこう",
+    "imi": "외교"
+  },
+  {
+    "tango": "隣",
+    "yomikata": "となり",
+    "imi": "곁, 옆"
+  },
+  {
+    "tango": "~界 (접미어)",
+    "yomikata": "~かい",
+    "imi": "~계(분야)"
+  },
+  {
+    "tango": "ものすごい",
+    "yomikata": "",
+    "imi": "굉장하다, 무섭다"
+  },
+  {
+    "tango": "超える",
+    "yomikata": "こえる",
+    "imi": "넘다"
+  }
+]

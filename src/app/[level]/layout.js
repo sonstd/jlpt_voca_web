@@ -6,7 +6,7 @@ export default async function LevelLayout({ children, params }) {
   const { level } = await params;
   if (!isValidLevel(level)) notFound();
 
-  const totalDays = getTotalDays(level);
+  const totalDays = await getTotalDays(level);
 
   return (
     <WordsCacheProvider level={level} totalDays={totalDays}>

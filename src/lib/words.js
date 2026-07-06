@@ -2,34 +2,41 @@ import fs from 'fs/promises';
 import path from 'path';
 
 export const LEVELS = {
-  basic: { label: '기초', totalDays: 60 },
-  intermediate: { label: '중급', totalDays: 30 },
-  advanced: { label: '고급', totalDays: 30 },
+  N5: { label: 'N5' },
+  N4: { label: 'N4' },
+  N3: { label: 'N3' },
+  N2: { label: 'N2' },
+  N1: { label: 'N1' },
 };
 
 export function isValidLevel(level) {
   return Object.prototype.hasOwnProperty.call(LEVELS, level);
 }
 
-export function getTotalDays(level) {
-  return LEVELS[level]?.totalDays ?? 0;
-}
-
 export function getLevelLabel(level) {
   return LEVELS[level]?.label ?? level;
 }
 
+// 폴더를 직접 읽어 Day{n}.json 파일 개수를 반환
+export async function getTotalDays(level) {
+  if (!isValidLevel(level)) return 0;
+  const dirPath = path.join(process.cwd(), 'src', 'words', level);
+  try {
+    const files = await fs.readdir(dirPath);
+    return files.filter((f) => /^Day\d+\.json$/.test(f)).length;
+  } catch {
+    return 0;
+  }
+}
+
+// 파일명이 Day{n}.json (대문자)
 export async function getWords(level, day) {
   if (!isValidLevel(level)) return null;
-  const total = getTotalDays(level);
-  if (!Number.isInteger(day) || day < 1 || day > total) return null;
-
-  const filePath = path.join(process.cwd(), 'src', 'words', level, `day${day}.json`);
+  const filePath = path.join(process.cwd(), 'src', 'words', level, `Day${day}.json`);
   try {
     const raw = await fs.readFile(filePath, 'utf-8');
     return JSON.parse(raw);
-  } catch (e) {
-    console.error(`Failed to read ${level}/day${day}.json`, e);
+  } catch {
     return null;
   }
 }

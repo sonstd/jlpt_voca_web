@@ -1,0 +1,237 @@
+[
+  {
+    "tango": "湿度",
+    "yomikata": "しつど",
+    "imi": "습도"
+  },
+  {
+    "tango": "製品",
+    "yomikata": "せいひん",
+    "imi": "제품"
+  },
+  {
+    "tango": "医療",
+    "yomikata": "いりょう",
+    "imi": "의료"
+  },
+  {
+    "tango": "職業",
+    "yomikata": "しょくぎょう",
+    "imi": "직업"
+  },
+  {
+    "tango": "家電製品",
+    "yomikata": "かでんせいひん",
+    "imi": "가전제품"
+  },
+  {
+    "tango": "直接",
+    "yomikata": "ちょくせつ",
+    "imi": "직접"
+  },
+  {
+    "tango": "結構な",
+    "yomikata": "けっこうな",
+    "imi": "괜찮은, 좋은, 훌륭한"
+  },
+  {
+    "tango": "最も",
+    "yomikata": "もっとも",
+    "imi": "가장, 제일"
+  },
+  {
+    "tango": "香り",
+    "yomikata": "かおり",
+    "imi": "향기"
+  },
+  {
+    "tango": "美術",
+    "yomikata": "びじゅつ",
+    "imi": "미술"
+  },
+  {
+    "tango": "ソース",
+    "yomikata": "",
+    "imi": "소스"
+  },
+  {
+    "tango": "警察署",
+    "yomikata": "けいさつしょ",
+    "imi": "경찰서"
+  },
+  {
+    "tango": "ダイエット",
+    "yomikata": "",
+    "imi": "다이어트"
+  },
+  {
+    "tango": "ハート",
+    "yomikata": "",
+    "imi": "하트"
+  },
+  {
+    "tango": "効力",
+    "yomikata": "こうりょく",
+    "imi": "효력"
+  },
+  {
+    "tango": "お見合い",
+    "yomikata": "おみあい",
+    "imi": "맞선"
+  },
+  {
+    "tango": "可哀想な",
+    "yomikata": "かわいそうな",
+    "imi": "불쌍한"
+  },
+  {
+    "tango": "単に",
+    "yomikata": "たんに",
+    "imi": "단지, 다만"
+  },
+  {
+    "tango": "泥",
+    "yomikata": "どろ",
+    "imi": "진흙"
+  },
+  {
+    "tango": "空き地",
+    "yomikata": "あきち",
+    "imi": "공터"
+  },
+  {
+    "tango": "休日",
+    "yomikata": "きゅうじつ",
+    "imi": "휴일"
+  },
+  {
+    "tango": "片方",
+    "yomikata": "かたほう",
+    "imi": "다른 한쪽, 다른 쪽"
+  },
+  {
+    "tango": "様々な",
+    "yomikata": "さまざまな",
+    "imi": "다양한"
+  },
+  {
+    "tango": "防ぐ",
+    "yomikata": "ふせぐ",
+    "imi": "막다, 방지하다"
+  },
+  {
+    "tango": "給料",
+    "yomikata": "きゅうりょう",
+    "imi": "급료"
+  },
+  {
+    "tango": "鶏",
+    "yomikata": "にわとり",
+    "imi": "닭"
+  },
+  {
+    "tango": "自由席",
+    "yomikata": "じゆうせき",
+    "imi": "자유석"
+  },
+  {
+    "tango": "つい",
+    "yomikata": "",
+    "imi": "그만, 무심코 =思わず"
+  },
+  {
+    "tango": "申請",
+    "yomikata": "しんせい",
+    "imi": "신청"
+  },
+  {
+    "tango": "湿気",
+    "yomikata": "しっけ",
+    "imi": "습기"
+  },
+  {
+    "tango": "内緒",
+    "yomikata": "ないしょ",
+    "imi": "비밀"
+  },
+  {
+    "tango": "付き合う",
+    "yomikata": "つきあう",
+    "imi": "교제하다, 함께 시간을 보내다"
+  },
+  {
+    "tango": "アイスクリーム",
+    "yomikata": "",
+    "imi": "아이스크림"
+  },
+  {
+    "tango": "咳",
+    "yomikata": "せき",
+    "imi": "기침"
+  },
+  {
+    "tango": "アンテナ",
+    "yomikata": "",
+    "imi": "안테나"
+  },
+  {
+    "tango": "終点",
+    "yomikata": "しゅうてん",
+    "imi": "종점"
+  },
+  {
+    "tango": "怒り",
+    "yomikata": "いかり",
+    "imi": "분노"
+  },
+  {
+    "tango": "重なる",
+    "yomikata": "かさなる",
+    "imi": "거듭되다, 중첩되다, 겹쳐지다, 쌓이다"
+  },
+  {
+    "tango": "外す",
+    "yomikata": "はずす",
+    "imi": "떼어내다, 벗다, 제외하다"
+  },
+  {
+    "tango": "~車 (접미어)",
+    "yomikata": "~しゃ",
+    "imi": "~차"
+  },
+  {
+    "tango": "伸びる",
+    "yomikata": "のびる",
+    "imi": "늘다, 자라다, 성장하다"
+  },
+  {
+    "tango": "書き直す",
+    "yomikata": "かきなおす",
+    "imi": "고쳐 쓰다, 다시 쓰다"
+  },
+  {
+    "tango": "過ごす",
+    "yomikata": "すごす",
+    "imi": "(시간을)보내다, 살아가다"
+  },
+  {
+    "tango": "輝く",
+    "yomikata": "かがやく",
+    "imi": "빛나다"
+  },
+  {
+    "tango": "文句",
+    "yomikata": "もんく",
+    "imi": "불평, 불만"
+  },
+  {
+    "tango": "中国",
+    "yomikata": "ちゅうごく",
+    "imi": "중국"
+  },
+  {
+    "tango": "区域",
+    "yomikata": "くいき",
+    "imi": "구역"
+  }
+]
